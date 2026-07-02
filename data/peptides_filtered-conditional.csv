@@ -1,0 +1,3207 @@
+ID,sequence,Activity,length,Threshold value 
+1,VP,Sweet,2,
+2,DQR,umami peptide,3,
+3,EGF,umami peptide,3,
+4,EAGIQ,Umami-enhancer,5,1.94
+5,EAGIQ,sweet,5,0.97
+6,EG,Umami,2,
+7,KGD,sweet,3,
+8,GFP,Umami,3,
+9,EEDGK,Umami,5,
+10,KGDEE,Salty,5,
+11,PK,Salty,2,
+12,VPY,Umami,3,
+13,GFP,Umami,3,
+14,TF,Umami enhancing        ,2,
+15,LQ,sweet enhancing,2,
+16,IE,Bitter,2,
+17,R,bitter             		,1,
+18,RR,bitter          	,2,
+19,RRR 	,bitter          	,5,
+20,P 	,bitter             	,3,
+21,PP 	,bitter          	,4,
+22,PPP 	,bitter          	,5,
+23,F 	,bitter             	,3,
+24,RG 	,bitter          	,4,
+25,FF 	,bitter          	,4,
+26,FFF 	,bitter          	,5,
+27,RP 	,bitter          	,4,
+28,PR 	,bitter          	,4,
+29,RF 	,bitter          	,4,
+30,KP 	,bitter          	,4,
+31,PK 	,bitter          	,4,
+32,GR 	,bitter          	,4,
+33,GP 	,bitter          	,4,
+34,FG 	,bitter          	,4,
+35,GF 	,bitter          	,4,
+36,FGG 	,bitter          	,5,
+37,GFG 	,bitter          	,5,
+38,GGF 	,bitter          	,5,
+39,FFG 	,bitter          	,5,
+40,FGF 	,bitter          	,5,
+41,GFF 	,bitter          	,5,
+42,RGP 	,bitter          	,5,
+43,PGR 	,bitter          	,5,
+44,RPG 	,bitter          	,5,
+45,GRP 	,bitter          	,5,
+46,RPF 	,bitter          	,5,
+47,YG 	,bitter          	,4,
+48,GY 	,bitter          	,4,
+49,YY 	,bitter          	,4,
+50,YGG 	,bitter          	,5,
+51,GYG 	,bitter          	,5,
+52,GGY 	,bitter          	,5,
+53,YYG 	,bitter          	,5,
+54,YGY 	,bitter          	,5,
+55,GYY 	,bitter          	,5,
+56,YYY 	,bitter          	,5,
+57,FV 	,bitter          	,4,
+58,FL 	,bitter          	,4,
+59,FI 	,bitter          	,4,
+60,FIV 	,bitter          	,5,
+61,FP 	,bitter          	,4,
+62,FPP 	,bitter          	,5,
+63,FPK 	,bitter          	,5,
+64,FPF 	,bitter          	,5,
+65,FFPP 	,bitter          	,6,
+66,AF 	,bitter          	,4,
+67,VF 	,bitter          	,4,
+68,LF 	,bitter          	,4,
+69,IF 	,bitter          	,4,
+70,YF 	,bitter          	,4,
+71,PF 	,bitter          	,4,
+72,KF 	,bitter          	,4,
+73,VIF 	,bitter          	,5,
+74,KPF 	,bitter          	,5,
+75,PPF 	,bitter          	,5,
+76,RPFF 	,bitter          	,6,
+77,RRPFF 	,bitter          	,7,
+78,KPK 	,bitter          	,5,
+79,PPG 	,bitter          	,5,
+80,PGG 	,bitter          	,5,
+81,PGP 	,bitter          	,5,
+82,GPG 	,bitter          	,5,
+83,GGP 	,bitter          	,5,
+84,GPPF 	,bitter          	,6,
+85,PFP 	,bitter          	,5,
+86,PFPP 	,bitter          	,6,
+87,YP 	,bitter          	,4,
+88,VYP 	,bitter          	,5,
+89,YPF 	,bitter          	,5,
+90,PGI 	,bitter          	,5,
+91,RRPPFF 		,bitter          	,9,
+92,RPPPFFF 	 	,bitter          	,11,
+93,RRPPPFFF	 	,bitter          	,11,
+94,RGPPFIV 	 	,bitter          	,11,
+95,VYPFPPGINH	 	,bitter          	,13,
+96,GGFF 			,bitter          	,8,
+97,FFGG 			,bitter          	,8,
+98,GGFFGG 		,bitter          	,9,
+99,VVV 			,bitter          	,7,
+100,GGVVV 			,bitter          	,9,
+101,RRPP 			,bitter          	,8,
+102,GGRPFF 		,bitter          	,9,
+103,RPFFGG 		,bitter          	,9,
+104,GGRPFFGG	 	,bitter          	,11,
+105,FFPG 			,bitter          	,8,
+106,FFPGG 			,bitter          	,9,
+107,FFPE 			,bitter          	,8,
+108,PFPGPIP 	 	,bitter          	,11,
+109,FGFG 			,bitter          	,8,
+110,FGGF 			,bitter          	,8,
+111,RPFFRPFF	 	,bitter          	,11,
+112,RPFFRPFFRPFF	 	,bitter          	,15,
+113,DLL 			,bitter          	,7,
+114,RGPPFIVRGPPFIV 	,bitter          	,16,
+115,RGPFPIIV 		,bitter          	,11,
+116,PVRGPFPIIV 		,bitter          	,13,
+117,PVLGPVRGPFPIIV 	,bitter          	,16,
+118,VYPFPPIGNH 		,bitter          	,13,
+119,VY,bitter          	,2,
+120,VYPF,bitter          	,4,
+121,V,bitter             	,1,
+122,GV,bitter          	,2,
+123,GGV,bitter          	,3,
+124,GVV,bitter          	,3,
+125,VIPFPGR,bitter          	,7,
+126,VL 	,bitter          	,4,
+127,VI 	,bitter          	,4,
+128,VYPFPPG,bitter          	,7,
+129,VYPFPPGI,bitter          	,8,
+130,VE 	,bitter          	,4,
+131,IV 	,bitter          	,4,
+132,VYPFPPGIGG 	,bitter          	,12,
+133,VYPFGGGINH 	,bitter          	,12,
+134,RGPPFI 	,bitter          	,8,
+135,RGPPF,bitter          	,5,
+136,RGPPGF,bitter          	,6,
+137,EGG,bitter          	,3,
+138,RRPPGF,bitter          	,6,
+139,PFIV,bitter          	,4,
+140,PPFIV,bitter          	,5,
+141,GPPFIV 	,bitter          	,8,
+142,RPPFIV 	,bitter          	,8,
+143,RGPFIV 	,bitter          	,8,
+144,RGGFIV 	,bitter          	,8,
+145,VIFPPGR 	,bitter          	,9,
+146,VIFPPG 	,bitter          	,8,
+147,LE 	,bitter          	,4,
+148,RGPPFIVGG 	,bitter          	,11,
+149,GGRGPPFIVGG 	,bitter          	,13,
+150,VD 	,bitter          	,4,
+151,PGPIP 	,bitter          	,7,
+152,YPFPGPI 	,bitter          	,9,
+153,GE 	,bitter          	,4,
+154,RGPPGGV 	,bitter          	,9,
+155,RGPPGIG 	,bitter          	,9,
+156,RGPPFGG 	,bitter          	,9,
+157,RGPPGFG 	,bitter          	,9,
+158,RGPPGGF 	,bitter          	,9,
+159,RGPPFF 	,bitter          	,8,
+160,RGPPGFF 	,bitter          	,9,
+161,AD 	,bitter          	,4,
+162,RGPPGGFF 	,bitter          	,10,
+163,RGPPGGGFF 	,bitter          	,11,
+164,RGPPFFF 	,bitter          	,9,
+165,GPFF,bitter          	,4,
+166,RGFF,bitter          	,4,
+167,RPGF,bitter          	,4,
+168,RPFG,bitter          	,4,
+169,FFPR,bitter          	,4,
+170,RPGFF,bitter          	,5,
+171,RPGGFF 	,bitter          	,8,
+172,FFRPFFRPFF 	,bitter          	,12,
+173,LD 	,bitter          	,4,
+174,ELL 	,bitter          	,5,
+175,GGRGPPFIV 	,bitter          	,11,
+176,LL,bitter          	,2,
+177,LG,bitter          	,2,
+178,GL,bitter          	,2,
+179,II,bitter          	,2,
+180,IG,bitter          	,2,
+181,GI,bitter          	,2,
+182,RGPKPIIV 	,bitter          	,10,
+183,RGPGPIIV 	,bitter          	,10,
+184,RGPPFIIV 	,bitter          	,10,
+185,KPPFIV 	,bitter          	,8,
+186,FPPFIV 	,bitter          	,8,
+187,PIP 	,bitter          	,5,
+188,L 	,bitter             	,3,
+189,LLL 	,bitter          	,5,
+190,LLLL 	,bitter          	,6,
+191,LGG 	,bitter          	,5,
+192,GLG 	,bitter          	,5,
+193,LLG 	,bitter          	,5,
+194,LGL 	,bitter          	,5,
+195,GLL 	,bitter          	,5,
+196,GGL 	,bitter          	,5,
+197,LGGG 	,bitter          	,6,
+198,GLGG 	,bitter          	,6,
+199,GGLG 	,bitter          	,6,
+200,GGGL 	,bitter          	,6,
+201,LGGGG 	,bitter          	,7,
+202,GLGGG 	,bitter          	,7,
+203,GGLGG 	,bitter          	,7,
+204,GGGLG 	,bitter          	,7,
+205,GGGGL 	,bitter          	,7,
+206,LV 	,bitter          	,4,
+207,LI 	,bitter          	,4,
+208,RGPEPIIV 	,bitter          	,10,
+209,PGPGPG 	,bitter          	,8,
+210,IL 	,bitter          	,4,
+211,PFPIIV 	,bitter          	,8,
+212,PVLGPV 	,bitter          	,8,
+213,VIIPFPGR 	,bitter          	,10,
+214,VIIPFPG 	,bitter          	,9,
+215,RGPFPIV 	,bitter          	,9,
+216,PFPGPI 	,bitter          	,8,
+217,VVAPFP 	,Manchego cheese         ,8,
+218,VVAPFPE 	,Manchego cheese         ,9,
+219,VVAPFPEV 	,Manchego cheese         ,10,
+220,VAPFP 	,Manchego cheese         ,7,
+221,VAPFPE,Manchego cheese         ,6,
+222,APFPE 	,Manchego cheese         ,7,
+223,VPPFL 	,Manchego cheese         ,7,
+224,GPVRGPFP,Manchego cheese         ,8,
+225,VRGPFP,Manchego cheese         ,6,
+226,RGPFPI,Manchego cheese         ,6,
+227,GPFP 	,Manchego cheese         ,6,
+228,GPFPI 	,Manchego cheese         ,7,
+229,EQEEL 	,Manchego cheese         ,7,
+230,QEEL 	,Manchego cheese         ,6,
+231,EINEL 	,Manchego cheese         ,7,
+232,PSE 	,Manchego cheese         ,5,
+233,RKE 	,Manchego cheese         ,5,
+234,SAEQK 	,Manchego cheese         ,7,
+235,ENINEL,Manchego cheese         ,6,
+236,INEL 	,Manchego cheese         ,6,
+237,YQEPVLGPVRGPFPIIV,bitter          	,17,
+238,NVVGET,Manchego cheese         ,6,
+239,VVGET 	,Manchego cheese         ,7,
+240,LEQL 	,Manchego cheese         ,6,
+241,D 	 	,Sour             	,5,
+242,D 	 	,Umami             	,5,
+243,D 	 	,Salty             	,5,
+244,E 	 	,Sour             	,5,
+245,E 	 	,Umami             	,5,
+246,DA 	 	,bitter          	,6,
+247,DL 	 	,bitter          	,6,
+248,EG 	 	,bitter          	,6,
+249,EL 	 	,bitter          	,6,
+250,K 	 	,Sour             	,5,
+251,K 	 	,Sweet             	,5,
+252,K 	 	,bitter             	,5,
+253,K 	 	,Astringent             	,5,
+254,DD 	,Sour         	 	,4,
+255,DD 	,Umami        	  	,4,
+256,DD 	,Salty        	  	,4,
+257,AA 	,Sweet        	  	,4,
+258,DE 	,Sour         	 	,4,
+259,ED 	,Sour         	 	,4,
+260,ED 	,Umami        	  	,4,
+261,ED 	,Salty        	  	,4,
+262,DE 	,Umami        	  	,4,
+263,DE 	,Salty        	  	,4,
+264,EE 	,Umami        	  	,4,
+265,EE 	,Salty        	  	,4,
+266,AGG 	,Sweet        	  	,5,
+267,GAG 	,Sweet        	  	,5,
+268,GGA 	,Sweet        	  	,5,
+269,AAG 	,Sweet        	  	,5,
+270,AGA 	,Sweet        	  	,5,
+271,GAA 	,Sweet        	  	,5,
+272,AAA 	,Sweet        	  	,5,
+273,V,Sweet             	,1,
+274,VG,Umami         	 	,2,
+275,VV,Umami         	 	,2,
+276,VGG,Umami         	 	,3,
+277,VGV,Sweet         	 	,3,
+278,VE,Umami         	 	,2,
+279,VE,Sour          		,2,
+280,VD,Umami         	 	,2,
+281,VD,Sour          		,2,
+282,DV,Sour          		,2,
+283,EV,Sour          		,2,
+284,G 	,Sweet             	,3,
+285,P 	,Sweet             	,3,
+286,EI 	,bitter          	,4,
+287,EY 	,bitter          	,4,
+288,EF 	,bitter          	,4,
+289,DDD 	,Salty          		,5,
+290,DDD 	,Umami          		,5,
+291,DDE 	,Umami          		,5,
+292,DDE 	,salty          		,5,
+293,DED 	,salty          		,5,
+294,DED 	,Umami          		,5,
+295,EDD 	,Umami          		,5,
+296,EDD 	,salty          		,5,
+297,DEE 	,salty          		,5,
+298,DEE 	,Umami          		,5,
+299,DEE 	,Sour           	 	,5,
+300,EDE 	,Umami          		,5,
+301,EDE 	,salty          		,5,
+302,EED 	,salty          		,5,
+303,EED 	,Umami          		,5,
+304,EEE 	,salty          		,5,
+305,KGD 	,Sweet          		,5,
+306,SLA 	,bitter          	,5,
+307,SLADEEKG,Umami         	 	,8,
+308,SLADEEKG,Sour          		,8,
+309,SLAKGDEE,Sour          		,8,
+310,SLAKGDEE,Umami         	 	,8,
+311,KGSLADEE,Sour          		,8,
+312,KGSLADEE,Umami         	 	,8,
+313,KGSLADEE,Sweet         	 	,8,
+314,KGDEE 	,Sour          		,7,
+315,KGDEE 	,salty         	 	,7,
+316,KGDEE 	,Sweet         	 	,7,
+317,EEDGK 	,Sour          		,7,
+318,EEDGK 	,Umami         	 	,7,
+319,EEDGK 	,Sweet         	 	,7,
+320,A 	,Sweet             	,3,
+321,EV 	,Sweet         	 	,4,
+322,EV 	,Umami         	 	,4,
+323,ADE 	,Sweet         	 	,5,
+324,ADE 	,Sour          		,5,
+325,ADE 	,bitter          	,5,
+326,AED 	,Sour          		,5,
+327,DES 	,Salty         	 	,5,
+328,DES 	,Sour          		,5,
+329,EEN 		,Sour            	,6,
+330,EEN 		,bitter          	,6,
+331,SPE 		,Sour            	,6,
+332,SPE 		,Salty            	,6,
+333,EPAD 		,Sour          	        ,7,
+334,EPAD 		,bitter          	,7,
+335,EEL 		,Umami            	,6,
+336,APPPPAEVHEV 	,Sourness suppressing   	,13,
+337,APPPPAEVHEVV 	,Sourness suppressing   	,14,
+338,APPPPAEVHEVVE 	,Sourness suppressing   	,15,
+339,APPPPAEVHEEVH 	,Sourness suppressing   	,15,
+340,DES 		,Umami           	,6,
+341,VV 		,bitter          	,5,
+342,VG 		,bitter          	,5,
+343,ED 		,bitterness supressing  	,5,
+344,EE 	,bitterness supressing   ,4,
+345,ES 	 	,Umami       	   	,6,
+346,ES 	,bitterness supressing   ,4,
+347,DES 	,bitterness supressing   ,5,
+348,EGS 	 	,Umami          		,7,
+349,EGS 	,bitterness supressing   ,5,
+350,LW 	 	,bitter          	,6,
+351,WL 	 	,bitter          	,6,
+352,FW 	 	,bitter          	,6,
+353,WF 	 	,bitter          	,6,
+354,WP 	 	,bitter          	,6,
+355,WW 	 	,bitter          	,6,
+356,WWW 	 	,bitter          	,7,
+357,YPFPGPIHNS 	,bitter          	,12,
+358,LVYPFPGPIHN 	,bitter          	,13,
+359,IW 	,bitter          	,4,
+360,PL 	,bitter          	,4,
+361,W 	,bitter             	,3,
+362,AE 	,Umami          		,4,
+363,DA 	,Umami          		,4,
+364,DG 	,Umami          		,4,
+365,DG 	 	,bitter          	,6,
+366,DL 	 	,Umami          		,6,
+367,DV 	 	,bitter          	,6,
+368,EE 	 	,bitter          	,6,
+369,EL 	 	,Umami          		,6,
+370,EV 	 	,bitter          	,6,
+371,EG 	 	,Umami          		,6,
+372,ID 	 	,bitter          	,6,
+373,EA 	 	,Umami          		,6,
+374,EA 	 	,bitter          	,6,
+375,EK 	 	,Umami          		,6,
+376,KG 	 	,Umami          		,6,
+377,KG 	 	,bitter          	,6,
+378,ED 	,Sweetness suppressing   ,4,
+379,EE 	,Sweetness suppressing   ,4,
+380,CCNKSV 	,Umami          		,8,
+381,AHSVRFY 	,Umami          		,9,
+382,R 	,bitterness suppressing  ,3,
+383,K 	,bitterness suppressing  ,3,
+384,LPEEV 	,Umami enhancing         ,7,3.41 ± 0.01
+385,EQQQQ 	,Umami          		,7,
+386,ALPEEV,Umami enhancing        	,6,
+387,GPFPVI 	,bitter          	,8,
+388,FFVAPFPEVFGK 	,bitter          	,14,
+389,LAGNQEEE 	,bitter          	,10,
+390,AQTQSLVYPFPGPIPNSLPQNIPPLTQ 	,bitter          	,29,
+391,EVLN 	,bitter          	,6,
+392,APFPEVF,bitter          	,7,
+393,VPPFLQ,bitter          	,6,
+394,YQQPVLGPVRGPFPII,bitter          	,16,
+395,FALPQYLK 	,bitter          	,10,
+396,NLQG 		,bitter          	,7,
+397,EQPQQNE 	,bitter          	,9,
+398,AGNPDIEHPE 	,bitter          	,12,
+399,GNPDIEHP 	,bitter          	,10,
+400,NALPE 		,bitter          	,8,
+401,NNEDT 		,bitter          	,8,
+402,SAEFG 		,bitter          	,8,
+403,EQGGEQG 	,bitter          	,9,
+404,ALEPDHR 	,bitter          	,9,
+405,NALEPDHRVE 	,bitter          	,12,
+406,GKHQQEEENEGG 	,bitter          	,14,
+407,KLHENIAR 	,bitter          	,10,
+408,GMIYPG 	,bitter          	,8,
+409,YEGNS 	,bitter          	,7,
+410,IGTLAGA 	,bitter          	,9,
+411,NFNNQLDQQTPR 	,bitter          	,14,
+412,VVYPWTQRF 	,bitter          	,11,
+413,NENLL 	,bitter          	,7,
+414,ET 	,Umami          		,4,
+415,TE 	,Umami          		,4,
+416,DEL 	,Umami          		,5,
+417,ADA 	,Umami          		,5,
+418,EDF 	,Umami          		,5,
+419,EDV 	,Umami          		,5,
+420,SEE 	,Umami          		,5,
+421,EY 	,Umami          		,4,
+422,PE 	,Umami enhancing         ,4,
+423,PAQ 	,Umami enhancing         ,5,
+424,DGG 	,Umami enhancing         ,5,
+425,EGSEAPDGSSR 	,Umami enhancing         ,13,
+426,APPPPAEVHEVHEEVH,Sourness suppressing    ,16,
+427,RP 	,Salty taste enhancing   ,4,
+428,RA 	,Salty taste enhancing   ,4,
+429,AR 	,Salty taste enhancing   ,4,
+430,RG 	,Salty taste enhancing   ,4,
+431,RS 	,Salty taste enhancing   ,4,
+432,RV 	,Salty taste enhancing   ,4,
+433,VR 	,Salty taste enhancing   ,4,
+434,RM 	,Salty taste enhancing   ,4,
+435,RPKHPIKHQ,bitter          	,9,
+436,SSRNEQSR 	,Umami        	  	,10,
+437,EGSEAPDGSSR 	,Umami enhancing         ,13,
+438,DEKR	 	,Salty          		,7,
+439,APFPEVFG 	,bitter          	,10,
+440,YQQPVLGPVRGPFPI 	,bitter          	,17,
+441,YQQPVLGPVRGPFPIIV 	,bitter          	,19,
+442,QNDKIHPFAQTQSLVYPFGPIP 	,bitter          	,24,
+443,QNDKIHPFAQTQSLVYPFGPIPNSLPQNIPPLTQTPVVV 	,bitter          	,41,
+444,PFPGPIPNS 	,bitter          	,11,
+445,LRF 	,bitter          	,5,
+446,YLGYLEQLLR 	,bitter          	,12,
+447,LGYLEQLL 	,bitter          	,10,
+448,YLEQLLR 	,bitter          	,9,
+449,LEQLL 	,bitter          	,7,
+450,LRL 	,bitter          	,5,
+451,AYFYPEL 	,bitter          	,9,
+452,FYPELF 	,bitter          	,8,
+453,FYPELFR 	,bitter          	,9,
+454,VPLGTQYTDAPSF 	,bitter          	,15,
+455,FYPE 	,bitter          	,6,
+456,QDKIHPFAQTQSLVYPFPGP 	,bitter          	,22,
+457,AD,Umami         	 	,2,
+458,VPPFLE,bitter          	,6,
+459,APK 	,bitter          	,5,
+460,TDVENLHLPPLL 	,bitter          	,14,
+461,QSKVLPVPQ 	,bitter          	,11,
+462,KAVPYPPQ 	,bitter          	,10,
+463,RDMPIQAFLLY 	,bitter          	,13,
+464,FLL 	,bitter          	,5,
+465,QQPVLGPVRGPFPI 	,bitter          	,16,
+466,QPVLGPVRGPFPIIV 	,bitter          	,17,
+467,GPFPIIV 	,bitter          	,9,
+468,GPFPII 	,bitter          	,8,
+469,VA 	,bitter          	,4,
+470,VVVPPFL 	,bitter          	,9,
+471,VVVPPFLQP 	,bitter          	,11,
+472,QLFNPS 	,bitter          	,8,
+473,LA 	,bitter          	,4,
+474,QLFNPSTNP 	,bitter          	,11,
+475,QLFNPSTNPWH 	,bitter          	,13,
+476,QLFNPSTNPWHSP 	,bitter          	,15,
+477,QLFGPNVNPWHNP 	,bitter          	,15,
+478,QLFNPS 	,Astringent          	,8,
+479,PA 	,bitter          	,4,
+480,MPFPKYPVEPF 	,bitter          	,13,
+481,GPVRGPFPIIV 	,bitter          	,13,
+482,MAPKHKEMPFPKYPVEPF 	,bitter          	,20,
+483,APKHKEMPFPKYPVEPF 	,bitter          	,19,
+484,YQEPVLGPVRGPFPI 	,bitter          	,17,
+485,FY 	,bitter          	,4,
+486,GLY 	,bitter          	,5,
+487,DY 	,bitter          	,4,
+488,PG 	,bitter          	,4,
+489,LY 	,bitter          	,4,
+490,VPA 	,Kokumi          	,5,
+491,YL 	,bitter          	,4,
+492,RL 	,bitter          	,4,
+493,IA 	,bitter          	,4,
+494,IE 	,bitter          	,4,
+495,IN 	,bitter          	,4,
+496,IP 	,bitter          	,4,
+497,IQ 	,bitter          	,4,
+498,PY 	,bitter          	,4,
+499,SL 	,bitter          	,4,
+500,VE,Umami        	  	,2,
+501,LQL,bitter          	,3,
+502,AGDDAPRAVF,bitterness suppressing 	,10,
+503,ETSARHL,bitterness suppressing 	,7,
+504,IPIPATKT 	,Umami        	  	,10,
+505,PVARMCR 	,Umami          		,9,
+506,LLF 		,bitter          	,6,
+507,YGLF 		,bitter          	,7,
+508,IPAVF 		,bitter          	,8,
+509,YPFPGPIPN 	,bitter          	,11,
+510,HLQLAIR 	,Umami           	,9,
+511,DPLRGGYY 	,Umami           	,10,
+512,AGLQFPVGR 	,Umami           	,11,
+513,HLQLAIR 	,bitter          	,9,
+514,HLQLAIR 	,Kokumi          	,9,
+515,DPLRGGYY 	,Kokumi          	,10,
+516,AGLQFPVGR 	,Kokumi          	,11,
+517,AGLQFPVGR 	,bitter          	,11,
+518,AH 	,Umami          		,4,
+519,AH 	,Sour           		,4,
+520,EF 	,Sour           		,4,
+521,VP 	,Sour           		,4,
+522,TP 	,Sour           		,4,
+523,EL 	,Sour           		,4,
+524,LP 	,Sour           		,4,
+525,DGY 	,Sour           		,5,
+526,NP 	,Umami          		,4,
+527,SPVDM 		,bitterness suppressing  ,8,
+528,CSPVDM 	,bitterness suppressing  ,8,
+529,ADW 		,bitterness suppressing  ,6,
+530,ADM 		,bitterness suppressing  ,6,
+531,EPLCNQ 	,Umami          		,8,
+532,SGCVNEL 	,Umami          		,9,
+533,PHEMQ 	 	,Umami          		,9,
+534,SEPSHF 	,Umami          		,8,
+535,ESCAPQL 	,Umami          		,9,
+536,HFR 		,Kokumi          	,6,
+537,HFR 		,bitter          	,6,
+538,HFR 		,Astringent          	,6,
+539,RPHR 	 	,Kokumi          	,8,
+540,RPHR 	 	,bitter          	,8,
+541,VRSY 	 	,Kokumi          	,8,
+542,VRSY 	 	,Sweet          		,8,
+543,VRSY 		,Umami          		,7,
+544,RWDGRG 	,Kokumi          	,8,
+545,KGRYER 	,Kokumi          	,8,
+546,KGRYER 	,Sweet          		,8,
+547,KGRYER 	,Umami          		,8,
+548,DTYNPR 	,Umami 	         	,8,
+549,DTYNPR 	,Sweet   	       	,8,
+550,DTYNPR 	,Sour          		,8,
+551,TYNPR 		,Umami          		,8,
+552,TYNPR 		,bitter          	,8,
+553,SYNPR 		,Umami          		,8,
+554,SYNPR 		,bitter          	,8,
+555,FRDEHQ 	,Umami          		,8,
+556,FRDEHQ 	,Sour          		,8,
+557,TYNPK 		,Umami          		,8,
+558,TYNPK 		,bitter          	,8,
+559,RFRQGD 	,Umami         	 	,8,
+560,RFRQGD 	,Sour          		,8,
+561,NFHHGD 	,Umami          		,8,
+562,NFHHGD 	,Sour          		,8,
+563,FHHGD 		,Umami          		,8,
+564,FHHGD 		,Sour          		,8,
+565,FRDEH 		,Umami          		,8,
+566,FRDEH 		,Sour          		,8,
+567,TVDGPSH 	,Umami          		,9,
+568,TVDGPSH 	,Sour          		,9,
+569,EVAEALDAPKTT 	,Umami          		,14,
+570,AVLEEAQKVELK 	,Umami          		,14,
+571,AEDLSTLR 	,Umami          		,10,
+572,KVDVDSLK 	,Umami          		,10,
+573,EALEATAQ 	,Umami          		,10,
+574,SPPTEE 	,Umami          		,8,
+575,SEEG 		,Umami          		,7,
+576,KEE 		,Umami          		,6,
+577,FEE 		,Umami          		,6,
+578,RLDAPGHRDF 	,Umami          		,12,
+579,FSYGDVGPR 	,Umami          		,11,
+580,SGGSPGADRVVF 	,Umami          		,14,
+581,NFADY 		,Umami          		,8,
+582,FGDGAP 	,Umami          		,8,
+583,AP 		,bitter          	,5,
+584,VP 		,Sweet    	      	,5,
+585,VPE 		,Sour          		,6,
+586,DMP 		,Umami          		,6,
+587,PI 		,bitter          	,5,
+588,PV 		,bitter          	,5,
+589,AD,Bitter,2,6
+590,AD,Umami,2,13
+591,AE,Umami,2,1.5
+592,AH,Umami,2,
+593,NY,Umami,2,10.59957
+594,EA,Umami,2,3.75787
+595,PAA,Umami,3,39.83832
+596,GGY,Umami,3,27.76884
+597,VAV,Umami,3,25.22968
+598,LV,Umami,2,29.30858
+599,LVG,Umami,3,23.4897
+600,VV,Umami,2,28.89759
+601,PET,Umami,3,13.84095
+602,KG,Umami,2,22.58392
+603,QL,Umami,2,13.99891
+604,HV,Umami,2,8.17964
+605,ES,Umami,2,6.66075
+606,EL,Umami,2,5.83964
+607,EN,Umami,2,2.87099
+608,DA,Bitter,2,13
+609,DA,Umami,2,
+610,DL,Bitter,2,0.8
+611,DL,Umami,2,2.5
+612,DK,Umami,2,0.68189
+613,RD,Umami,2,1.72836
+614,DGV,Umami,3,0.51851
+615,DR,Umami,2,0.34567
+616,DR,Bitter,2,
+617,DF,Bitter,2,1.78393
+618,FP,Bitter,2,0.76246
+619,DM,Bitter,2,1.51341
+620,DD,Sour,2,3.57
+621,DD,Umami,2,3.57
+622,DD,Umami,2,4.79
+623,DD,Salty,2,4.79
+624,DE,Salty,2,1.25
+625,DE,Umami,2,1.25
+626,DE,Umami,2,3.36
+627,DE,Salty,2,3.36
+628,CE,Umami,2,1.25
+629,CE,Sour,2,1.25
+630,CPR,Sour,3,1.67
+631,CPR,Sweet,3,1.67
+632,SGVQ,Sour,4,3.21
+633,SGVQ,Sweet,4,3.21
+634,AQ,Sour,2,1.44
+635,CMT,Kokumi,3,0.89
+636,PC,Sweet,2,2.87
+637,PC,Sour,2,2.87
+638,FEA,Sour,3,1.71
+639,LM,Bitter,2,2.39
+640,LM,Sour,2,2.39
+641,ED,Umami,2,2.05
+642,ED,Umami,2,3.14
+643,ED,Salty,2,3.14
+644,ED,Umami,2,
+645,EG,Bitter,2,1.5
+646,EL,Bitter,2,0.4
+647,EL,Umami,2,3
+648,EK,Umami,2,3.12
+649,EK,Sour,2,3.12
+650,EP,Umami,2,1.49
+651,EY,Bitter,2,
+652,EF,Bitter,2,
+653,EI,Bitter,2,
+654,EL,Bitter,2,
+655,EV,Bitter,2,
+656,EV,Umami,2,
+657,GD,Umami,2,6
+658,GE,Bitter,2,1.5
+659,GE,Umami,2,0.8
+660,LD,Bitter,2,6
+661,QP,Umami,2,
+662,LE,Bitter,2,3
+663,LE,Umami,2,1.5
+664,LEL,Bitter,3,0.4
+665,VD,Bitter,2,13
+666,VD,Umami,2,25
+667,VE,Bitter,2,6
+668,VE,Umami,2,1.5
+669,VG,Umami,2,38
+670,V,Bitter,1,19
+671,GV,Bitter,2,4.5
+672,VV,Umami,2,25
+673,VGG,Umami,3,8.5
+674,GGV,Bitter,3,38
+675,VGV,Sweet,3,4.5
+676,GVV,Bitter,3,4.5
+677,VL,Bitter,2,6
+678,VI,Bitter,2,6
+679,VF,Bitter,2,3
+680,VIF,Bitter,3,1.3
+681,LV,Bitter,2,9.5
+682,IV,Bitter,2,12.5
+683,FV,Bitter,2,6
+684,FIV,Bitter,3,1.5
+685,DV,Sour,2,1.5
+686,EV,Sour,2,1.5
+687,RFPHADF,Bitter,7,0.4
+688,RFPHADF,Astringent,7,0.4
+689,RGENESDEQGAIVT,Umami,14,0.43
+690,RGENESDEQGAIVT,Astringent,14,0.43
+691,SFE,Umami,3,1.38
+692,SFE,Astringent,3,1.38
+693,FQP,Bitter,3,1.99
+694,FQP,Astringent,3,1.99
+695,GY,Bitter,2,3
+696,ADA,Bitter,3,13
+697,ADA,Umami,3,3
+698,VDV,Umami,3,13
+699,LDL,Bitter,3,0.8
+700,LDL,Umami,3,
+701,GEG,Bitter,3,1.5
+702,GEG,Umami,3,1.5
+703,VEV,Umami,3,1.5
+704,VEV,Tasteless,3,
+705,EE,Umami,2,
+706,TGC,Umami,3,
+707,DAE,Umami,3,
+708,EVY,Astringent,3,2.83314
+709,AGY,Astringent,3,4.46137
+710,GLE,Umami,3,
+711,SEC,Astringent,3,3.17174
+712,AEP,Astringent,3,6.69149
+713,VEAL,Umami,4,1.39372
+714,VEAL,Astringent,4,1.39372
+715,GGGE,Astringent,4,1.57091
+716,GGGE,Umami,4,
+717,DR,Astringent,2,1.76292
+718,NTC,Astringent,3,6.12421
+719,NAL,Bitter,3,
+720,EVC,Astringent,3,4.09262
+721,ENF,Astringent,3,2.54645
+722,GGGS,Astringent,4,7.42084
+723,RGENESEEEGAIVT,Umami,14,0.43
+724,RGENESEEEGAIVT,Kokumi,14,
+725,RGENESEEEGAIVT,Astringent,14,
+726,TESSSE,Umami,6,0.39
+727,TESSSE,Kokumi,6,
+728,TESSSE,Astringent,6,
+729,EDG,Umami,3,0.71
+730,EDG,Sour,3,
+731,EDG,Astringent,3,
+732,DQR,Umami,3,1.11
+733,DQR,Sour,3,
+734,DQR,Astringent,3,
+735,NNP,Umami,3,0.83
+736,NNP,Sweet,3,0.83
+737,NNP,Astringent,3,
+738,EGF,Umami,3,0.94
+739,EGF,Bitter,3,
+740,EGF,Kokumi,3,
+741,EGF,Astringent,3,
+742,LPEEV,Umami,5,0.43
+743,LPEEV,Sour,5,
+744,LPEEV,Sweet,5,
+745,AQALQAQA,Umami,8,
+746,AQALQAQA,Sweet,8,1.25
+747,AQALQAQA,Astringent,8,
+748,EQQQQ,Umami,5,0.76
+749,EQQQQ,Astringent,5,
+750,EQQQQ,Sour,5,
+751,EQQQQ,Salty,5,
+752,EAGIQ,Umami,5,0.97 ± 0.01
+753,EAGIQ,Salty,5,
+754,ALPEEV,Sour,6,
+755,RPHR,Bitter,4,
+756,RPHR,Kokumi,4,
+757,RPWHR,Bitter,5,
+758,HFR,Bitter,3,
+759,HFR,Kokumi,3,
+760,HFR,Astringent,3,
+761,,,0,
+762,,,0,
+763,,,0,
+764,LYER,Sweet,4,
+765,LYER,Kokumi,4,
+766,LYER,Umami,4,
+767,RWDGRG,Kokumi,6,
+768,CCNKSV,Umami,6,
+769,AHSVRFY,Umami,7,
+770,DEESLA,Sour,6,
+771,EESLA,Sour,5,
+772,ESLA,Sour,4,
+773,SLA,Sour,3,
+774,ASEFFR,Sour,6,0.296
+775,ASEFFR,Bitter,6,
+776,APAP,Sour,4,0.306
+777,APAP,Salty,4,0.306
+778,LGDVLVR,Sour,7,0.284
+779,LGDVLVR,Salty,7,0.284
+780,LGDVLVR,Umami,7,0.284
+781,AEASALR,Sour,7,0.152
+782,AEASALR,Umami,7,0.152
+783,WDDMEK,Umami,6,0.034
+784,WDDMEK,Sour,6,0.034
+785,WDDMEK,Salty,6,0.034
+786,WDDMEK,Kokumi,6,0.034
+787,YGLF,Bitter,4,
+788,YPFPGPIPN,Bitter,9,
+789,IPAVF,Bitter,5,
+790,LLF,Bitter,3,
+791,FW,Bitter,2,
+792,LLL,Bitter,3,
+793,GL,Bitter,2,
+794,GF,Bitter,2,
+795,FL,Bitter,2,
+796,PR,Bitter,2,
+797,NALPE,Bitter,5,0.074
+798,NALPL,Bitter,5,0.149
+799,NALPW,Bitter,5,0.105
+800,NALPS,Bitter,5,0.25
+801,NALPR,Bitter,5,0.42
+802,NALPR,Astringent,5,0.42
+803,NALPP,Sour,5,
+804,NALPP,Bitter,5,
+805,NALPD,Sour,5,
+806,NALPD,Astringent,5,
+807,EEE,Umami,3,
+808,FPP,Bitter,3,
+809,FPP,Bitter,3,4.5
+810,F,Bitter,1,20
+811,F,Sweet,1,2.2
+812,FG,Bitter,2,6
+813,GF,Bitter,2,1.2
+814,FF,Bitter,2,1.2
+815,FGG,Bitter,3,4.5
+816,GFG,Bitter,3,3
+817,GGF,Bitter,3,1.5
+818,FFG,Bitter,3,2.2
+819,FGF,Bitter,3,1.2
+820,GFF,Bitter,3,0.6
+821,FFF,Bitter,3,0.2
+822,YG,Bitter,2,3
+823,GY,Bitter,2,3
+824,YY,Bitter,2,2.3
+825,YGG,Bitter,3,2.3
+826,GYG,Bitter,3,19
+827,GGY,Bitter,3,1.5
+828,YYG,Bitter,3,0.6
+829,YGY,Bitter,3,0.8
+830,GYY,Bitter,3,0.4
+831,YYY,Bitter,3,0.2
+832,FF,Bitter,2,1.2
+833,FF,Bitter,2,1.2
+834,FF,Bitter,2,1.2
+835,FF,Bitter,2,1.2
+836,FG,Bitter,2,6
+837,FG,Bitter,2,9
+838,FG,Bitter,2,6
+839,FV,Bitter,2,6
+840,FL,Bitter,2,1.5
+841,FI,Bitter,2,1.5
+842,FIV,Bitter,3,1.5
+843,FP,Bitter,2,1.5
+844,FPP,Bitter,3,4.5
+845,FPK,Bitter,3,3
+846,FPF,Bitter,3,0.4
+847,FFPP,Bitter,4,3
+848,GF,Bitter,2,1.2
+849,AF,Bitter,2,12.5
+850,VF,Bitter,2,3
+851,IF,Bitter,2,1.3
+852,FF,Bitter,2,1.5
+853,YF,Bitter,2,0.8
+854,PF,Bitter,2,38
+855,SF,Umami,2,9
+856,TF,Astringent,2,2.3
+857,KF,Bitter,2,9
+858,KF,Sweet,2,4.5
+859,RF,Bitter,2,2.3
+860,VIF,Bitter,3,1.3
+861,KPF,Bitter,3,0.4
+862,RPF,Bitter,3,1.5
+863,PPF,Bitter,3,2.3
+864,FPF,Bitter,3,0.4
+865,RPFF,Bitter,4,0.04
+866,RRPFF,Bitter,5,0.02
+867,FY,Bitter,2,0.00119
+868,FQ,Bitter,2,0.00532
+869,PL,Bitter,2,0.01375
+870,Y,Bitter,1,0.06899
+871,K,Bitter,1,0.01573
+872,L,Bitter,1,0.00991
+873,EEL,Umami,3,
+874,EGS,Umami,3,
+875,ES,Umami,2,
+876,EE,Umami,2,
+877,EF,Bitter,2,
+878,GFP,Astringent,3,6.26
+879,GFP,Sweet,3,6.26
+880,VPY,Astringent,3,1.65
+881,VPY,Umami,3,1.65
+882,VPY,Sweet,3,1.65
+883,TAY,Sour,3,1.76
+884,TAY,Umami,3,1.76
+885,AAPY,Astringent,4,2.97
+886,AAPY,Umami,4,2.97
+887,EV,Sweet,2,
+888,EV,Umami,2,
+889,ADE,Sweet,3,
+890,ADE,Sour,3,
+891,ADE,Bitter,3,
+892,DEE,Salty,3,
+893,DES,Sour,3,
+894,DES,Salty,3,
+895,EEN,Sour,3,
+896,SPE,Sour,3,
+897,SPE,Salty,3,
+898,EPAD,Sour,4,
+899,EPAD,Bitter,4,
+900,GRVSNCAA,Umami,8,0.32
+901,GRVSNCAA,Sweet,8,0.32
+902,GRVSNCAA,Astringent,8,0.32
+903,SEEK,Umami,4,2.03
+904,SEEK,Bitter,4,2.03
+905,SEEK,Astringent,4,2.03
+906,KEMQKN,Umami,6,1.29
+907,KEMQKN,Sour,6,1.29
+908,KSAEN,Umami,5,0.23
+909,KSAEN,Sweet,5,0.23
+910,KSAEN,Astringent,5,0.23
+911,QIEELEGK,Umami,8,0.27
+912,QIEELEGK,Astringent,8,0.27
+913,TDVEQEGD,Umami,8,1.12
+914,TDVEQEGD,Sour,8,1.12
+915,TDVEQEGD,Astringent,8,1.12
+916,HNESQN,Umami,6,0.69
+917,HNESQN,Sour,6,0.69
+918,HNESQN,Salty,6,0.69
+919,RGEPNND,Umami,7,2.5
+920,RGEPNND,Sour,7,2.5
+921,RGEPNND,Astringent,7,2.5
+922,TGDPEK,Umami,6,3.1
+923,TGDPEK,Sour,6,3.1
+924,KGGGGP,Umami,6,0.53
+925,KGGGGP,Sour,6,0.53
+926,TYLPVH,Umami,6,2.74
+927,TYLPVH,Sour,6,2.74
+928,TYLPVH,Astringent,6,2.74
+929,TYLPVH,Bitter,6,2.74
+930,PAATIPE,Umami,7,1.43
+931,PAATIPE,Sour,7,1.43
+932,PAATIPE,Sweet,7,1.43
+933,PAATIPE,Bitter,7,1.43
+934,GPAGPAGPR,Umami,9,1.28
+935,GPAGPAGPR,Sweet,9,1.28
+936,AGAGPTP,Umami,7,0.88
+937,AGAGPTP,Sour,7,0.88
+938,AGAGPTP,Astringent,7,0.88
+939,P,Bitter,1,13
+940,PP,Bitter,2,4.5
+941,PPP,Bitter,3,2
+942,GP,Bitter,2,6
+943,PPG,Bitter,3,9.5
+944,PGG,Bitter,3,4.5
+945,PGP,Bitter,3,9.5
+946,GPG,Bitter,3,20
+947,GGP,Bitter,3,9.5
+948,PF,Bitter,2,38
+949,FP,Bitter,2,1.5
+950,PPF,Bitter,3,2.3
+951,GPPF,Bitter,4,3
+952,PFP,Bitter,3,0.4
+953,PFPP,Bitter,4,4.5
+954,FPP,Bitter,3,4.5
+955,FFPP,Bitter,4,3
+956,FPF,Bitter,3,0.4
+957,TP,Bitter,2,19
+958,VYP,Bitter,3,3
+959,YPF,Bitter,3,0.3
+960,PGI,Bitter,3,2.3
+961,R,Bitter,1,25
+962,RR,Bitter,2,8
+963,RRR,Bitter,3,4
+964,RG,Bitter,2,10
+965,GR,Bitter,2,100
+966,RP,Bitter,2,0.8
+967,PR,Bitter,2,3
+968,RGP,Bitter,3,13
+969,PGR,Bitter,3,25
+970,RPG,Bitter,3,0.8
+971,GRP,Bitter,3,0.8
+972,KP,Bitter,2,3
+973,PK,Bitter,2,6
+974,KPK,Bitter,3,3
+975,KPF,Bitter,3,0.4
+976,FPK,Bitter,3,3
+977,RPFF,Bitter,4,0.04
+978,RRPFF,Bitter,5,0.02
+979,RRPPFF,Bitter,6,0.007
+980,RPPPFFF,Bitter,7,0.02
+981,RRPPPFFF,Bitter,8,0.002
+982,RPFF,Bitter,4,0.04
+983,GPFF,Bitter,4,0.16
+984,RGFF,Bitter,4,0.16
+985,RPGF,Bitter,4,0.16
+986,RPFG,Bitter,4,0.39
+987,FFPR,Bitter,4,0.1
+988,RPGFF,Bitter,5,0.31
+989,RPGGFF,Bitter,6,0.09
+990,RPFL,Bitter,4,0.03
+991,RPFF,Bitter,4,0.19
+992,RPFF,Bitter,4,0.08
+993,RPFFRPFFRPFF,Bitter,12,0.01
+994,FFRPFFRPFFRPFF,Bitter,14,0.007
+995,RPFFRPFFRPFF,Bitter,12,0.01
+996,PFPIIV,Bitter,6,0.13
+997,RGPFPIIV,Bitter,8,0.004
+998,PVRGPFPIIV,Bitter,10,0.004
+999,PVLGPVRGPFPIIV,Bitter,14,0.015
+1000,PVLGPV,Bitter,6,0.5
+1001,VIIPFPGR,Bitter,8,0.14
+1002,VIIPFPG,Bitter,7,0.26
+1003,RGPFPIV,Bitter,7,0.11
+1004,VIPFPGR,Bitter,7,0.07
+1005,RPFF,Bitter,4,0.04
+1006,RRPFF,Bitter,5,0.02
+1007,RRPPFF,Bitter,6,0.007
+1008,RPPPFFF,Bitter,7,0.02
+1009,RRPPPFFF,Bitter,8,0.002
+1010,RRPPFF,Bitter,6,0.006
+1011,RRPPFF,Bitter,6,0.04
+1012,RRPPFF,Bitter,6,0.03
+1013,RRPPGF,Bitter,6,0.04
+1014,RRPPGF,Bitter,6,0.14
+1015,RGPPGF,Bitter,6,0.3
+1016,RGPPGF,Bitter,6,0.7
+1017,RGPPGGV,Bitter,7,3.3
+1018,RGPPGIG,Bitter,7,1.7
+1019,RGPPFGG,Bitter,7,0.6
+1020,RGPPGFG,Bitter,7,0.21
+1021,RGPPGGF,Bitter,7,0.82
+1022,RGPPFF,Bitter,6,0.06
+1023,RGPPGFF,Bitter,7,0.04
+1024,RGPPGGFF,Bitter,8,0.08
+1025,RGPPGGGFF,Bitter,9,0.11
+1026,RGPPFFF,Bitter,7,0.01
+1027,RGPPFIV,Bitter,7,0.05
+1028,RGPPFI,Bitter,6,0.025
+1029,RGPPF,Bitter,5,2.3
+1030,RGP,Bitter,3,13
+1031,RG,Bitter,2,10
+1032,IV,Bitter,2,12.5
+1033,FIV,Bitter,3,1.5
+1034,PFIV,Bitter,4,0.3
+1035,PPFIV,Bitter,5,1.2
+1036,GPPFIV,Bitter,6,1.2
+1037,RPPFIV,Bitter,6,0.08
+1038,RGPFIV,Bitter,6,0.05
+1039,RGPPFIV,Bitter,7,0.05
+1040,VIFPPGR,Bitter,7,0.08
+1041,VIFPPG,Bitter,6,2.1
+1042,VIF,Bitter,3,1.3
+1043,VI,Bitter,2,6
+1044,IF,Bitter,2,1.5
+1045,PP,Bitter,2,4.5
+1046,PPG,Bitter,3,9.5
+1047,PG,Sweet,2,
+1048,PGR,Bitter,3,25
+1049,GR,Bitter,2,75
+1050,RGPPFIV,Bitter,7,0.05
+1051,GGRGPPFIV,Bitter,9,0.08
+1052,RGPPFIVGG,Bitter,9,0.05
+1053,GGRGPPFIVGG,Bitter,11,0.04
+1054,FF,Bitter,2,1.2
+1055,GGFF,Bitter,4,1.4
+1056,FFGG,Bitter,4,3
+1057,GGFFGG,Bitter,6,0.2
+1058,VVV,Bitter,3,4.5
+1059,GGVVV,Bitter,5,8
+1060,RP,Bitter,2,0.8
+1061,GRP,Bitter,3,0.8
+1062,RPG,Bitter,3,0.8
+1063,RRPP,Bitter,4,2
+1064,RPFF,Bitter,4,0.04
+1065,GGRPFF,Bitter,6,0.09
+1066,RPFFGG,Bitter,6,0.12
+1067,GGRPFFGG,Bitter,8,0.04
+1068,FF,Bitter,2,1.2
+1069,FFPG,Bitter,4,1.25
+1070,FFPGG,Bitter,5,1.5
+1071,FFPE,Bitter,4,1.75
+1072,P,Bitter,1,12
+1073,PP,Bitter,2,4.5
+1074,PPP,Bitter,3,2
+1075,GP,Bitter,2,6
+1076,PPG,Bitter,3,9.5
+1077,PGG,Bitter,3,4.5
+1078,PGP,Bitter,3,9.5
+1079,GPG,Bitter,3,20
+1080,GGP,Bitter,3,9.5
+1081,PF,Bitter,2,38
+1082,FP,Bitter,2,1.5
+1083,PPF,Bitter,3,2.3
+1084,GPPF,Bitter,4,3
+1085,PFP,Bitter,3,0.4
+1086,PFPP,Bitter,4,4.5
+1087,FPP,Bitter,3,4.5
+1088,FFPP,Bitter,4,3
+1089,FPF,Bitter,3,0.4
+1090,YPF,Bitter,3,10
+1091,VYP,Bitter,3,3
+1092,YPF,Bitter,3,0.3
+1093,PGI,Bitter,3,2.3
+1094,R,Bitter,1,25
+1095,RR,Bitter,2,8
+1096,RRR,Bitter,3,4
+1097,RG,Bitter,2,10
+1098,GR,Bitter,2,100
+1099,RP,Bitter,2,0.8
+1100,PR,Bitter,2,3
+1101,RGP,Bitter,3,13
+1102,PGR,Bitter,3,25
+1103,RPG,Bitter,3,0.8
+1104,GRP,Bitter,3,0.8
+1105,KP,Bitter,2,3
+1106,PK,Bitter,2,6
+1107,KPK,Bitter,3,3
+1108,KPF,Bitter,3,0.4
+1109,FPK,Bitter,3,3
+1110,RGPPFIV,Bitter,7,0.08
+1111,RGPPFIV,Bitter,7,0.11
+1112,RGPPFIV,Bitter,7,0.2
+1113,RGPFIV,Bitter,6,0.05
+1114,RGPFIV,Bitter,6,0.32
+1115,RGGFIV,Bitter,6,0.8
+1116,VYPFPPGINH,Bitter,10,0.05
+1117,VYPFGGGINH,Bitter,10,0.23
+1118,VYPFPPGIGG,Bitter,10,0.3
+1119,VYPFPPGI,Bitter,8,0.15
+1120,VYPFPPG,Bitter,7,0.3
+1121,INH,Bitter,3,25
+1122,NH,Bitter,2,100
+1123,GD,Umami,2,6
+1124,AD,Bitter,2,6
+1125,AD,Umami,2,13
+1126,VD,Bitter,2,13
+1127,VD,Umami,2,25
+1128,LD,Bitter,2,6
+1129,GE,Bitter,2,1.5
+1130,GE,Umami,2,0.8
+1131,AE,Umami,2,1.5
+1132,VE,Bitter,2,6
+1133,VE,Umami,2,1.5
+1134,LE,Bitter,2,3
+1135,LE,Umami,2,1.5
+1136,ADA,Bitter,3,13
+1137,ADA,Umami,3,3
+1138,VDV,Umami,3,13
+1139,DL,Umami,2,2.5
+1140,LDL,Bitter,3,0.8
+1141,GEG,Umami,3,1.5
+1142,GEG,Bitter,3,1.5
+1143,AEA,Umami,3,0.8
+1144,AEA,Tasteless,3,
+1145,EL,Umami,2,3
+1146,LEL,Bitter,3,0.4
+1147,PFPGPIP,Bitter,7,0.25
+1148,YPFPGPI,Bitter,7,0.16
+1149,PFPGPI,Bitter,6,0.44
+1150,PGPIP,Bitter,5,0.8
+1151,PIP,Bitter,3,1.4
+1152,PFP,Bitter,3,0.4
+1153,FP,Bitter,2,1.5
+1154,PF,Bitter,2,38
+1155,YPF,Bitter,3,0.4
+1156,YP,Bitter,2,19
+1157,PFPGPI,Bitter,6,0.44
+1158,PGPGPG,Bitter,6,2.5
+1159,AFDEK,Umami,5,0.05
+1160,CALTP,Umami,5,
+1161,RPLGNC,Umami,6,
+1162,INKPGL,Umami,6,0.39015
+1163,SDSCIR,Umami,6,0.58845
+1164,GPDPER,Umami,6,0.74661
+1165,ADGLWL,Astringent,6,0.74
+1166,ADGLWL,Umami,6,0.74
+1167,ADGLWL,Sweet,6,0.74
+1168,ADGLWL,Sour,6,0.74
+1169,ADGLWL,Bitter,6,0.74
+1170,AGDDAPR,Astringent,7,1.43
+1171,AGDDAPR,Umami,7,1.43
+1172,AGDDAPR,Sweet,7,1.43
+1173,AGDDAPR,Sour,7,1.43
+1174,AGDDAPR,Bitter,7,1.43
+1175,GFLGPQ,Sour,6,0.4
+1176,GFLGPQ,Umami,6,0.4
+1177,HGEDKEGE,Sour,8,0.56
+1178,HGEDKEGE,Umami,8,0.56
+1179,IGPGLGR,Umami,7,1.5
+1180,IPIPATKT,Sweet,8,0.6
+1181,IPIPATKT,Umami,8,0.6
+1182,KDGGGGK,Umami,7,1.62
+1183,KDGGGGK,Sweet,7,1.62
+1184,KDGGGGK,Sour,7,1.62
+1185,FAGDDAPR,Sour,8,1.18
+1186,FAGDDAPR,Umami,8,1.18
+1187,PGPAGPAGP,Sour,9,0.7
+1188,PGPAGPAGP,Umami,9,0.7
+1189,PGPAGPAGP,Kokumi,9,0.7
+1190,SEASNNK,Astringent,7,0.33
+1191,SEASNNK,Umami,7,0.33
+1192,VADLMR,Umami,6,0.35518
+1193,STELFK,Umami,6,0.17269
+1194,DALKKK,Umami,6,0.1781
+1195,DALKKK,Sweet,6,0.1781
+1196,FVGLQER,Umami,7,0.29482
+1197,FVGLQER,Salty,7,0.29482
+1198,VVLNPVARVE,Umami,10,0.11412
+1199,VVLNPVARVE,Sweet,10,0.11412
+1200,ASNMSDL,Umami,7,10.19
+1201,ASNMSDL,Sour,7,10.19
+1202,ASNMSDL,Astringent,7,10.19
+1203,YYGSNSA,Sour,7,13.16
+1204,YYGSNSA,Sweet,7,13.16
+1205,YYGSNSA,Astringent,7,13.16
+1206,LQPLNAH,Umami,7,12.63
+1207,LQPLNAH,Sour,7,12.63
+1208,LQPLNAH,Salty,7,12.63
+1209,LQPLNAH,Astringent,7,12.63
+1210,MTNLLEDLSFR,Umami,11,0.07471
+1211,GFGDSCTPGKNER,Umami,13,0.09141
+1212,YADSNIQINGTDR,Umami,13,0.34094
+1213,AREIALQELGEQAK,Umami,14,0.32139
+1214,IQQDDCK,Umami,7,0.23559
+1215,QAEADMAR,Umami,8,0.11224
+1216,MAASGDVGK,Umami,9,0.23954
+1217,MAASGDVGK,Sweet,9,0.23954
+1218,VYETPDR,Umami,7,0.22755
+1219,DAPYDYK,Umami,7,0.14353
+1220,TREQMIHER,Umami,9,0.20844
+1221,TREQMIHER,Bitter,9,0.20844
+1222,LLDAFFFDNK,Umami,10,0.10168
+1223,LLDAFFFDNK,Sweet,10,0.10168
+1224,EATLWDMEEK,Umami,10,0.09989
+1225,EATLWDMEEK,Bitter,10,0.09989
+1226,LPLLEEAFLSR,Umami,11,0.15534
+1227,LPLLEEAFLSR,Bitter,11,0.15534
+1228,NALKSVECYDAR,Umami,12,0.09134
+1229,NALKSVECYDAR,Sweet,12,0.09134
+1230,AKLTSLEEECQR,Umami,12,0.08887
+1231,AKLTSLEEECQR,Sweet,12,0.08887
+1232,YLASCLSSVKEEK,Umami,13,0.06865
+1233,YLASCLSSVKEEK,Sweet,13,0.06865
+1234,EQLEATVQKLDESR,Umami,14,0.12152
+1235,MEREQEESTMR,Umami,11,0.08768
+1236,SGVVAAVNDAAKDFHG,Sweet,16,0.1284
+1237,VLSLNSGTEAVEAAIK,Sweet,16,0.15607
+1238,EGSTIGLSK,Umami,9,0.22447
+1239,IMEALAGAGIDPRR,Umami,14,0.13608
+1240,NQEGLFR,Umami,7,0.23177
+1241,PVARMCR,Umami,7,0.04
+1242,YGGTPPFV,Umami,8,0.48
+1243,AGPSIVH,Umami,7,0.48
+1244,AGPSIVH,Astringent,7,1.13
+1245,DMIPAQK,Astringent,7,0.58
+1246,IKDPHVD,Umami,7,0.58
+1247,IKDPHVD,Sweet,7,0.13
+1248,PVLVQR,Sour,6,0.13
+1249,PVLVQR,Astringent,6,0.11
+1250,APYLR,Bitter,5,0.11
+1251,APYLR,Astringent,5,0.08
+1252,FAGDDAPR,Sour,8,0.08
+1253,FAGDDAPR,Astringent,8,0.48
+1254,TPPKID,Umami,6,0.09
+1255,NALNDITSL,Sour,9,0.09
+1256,NALNDITSL,Astringent,9,0.15
+1257,DDPKLVH,Bitter,7,0.15
+1258,DDPKLVH,Astringent,7,
+1259,GLLPDGTPR,Umami,9,0.13513
+1260,GLLPDGTPR,Sour,9,0.13513
+1261,RPNPFENR,Umami,8,0.12146
+1262,RPNPFENR,Sweet,8,0.12146
+1263,STMLLESER,Astringent,9,0.11735
+1264,ANPGPVRDLR,Umami,10,0.11423
+1265,ANPGPVRDLR,Salty,10,0.11423
+1266,QVAIAHRDAK,Umami,10,0.11279
+1267,QVAIAHRDAK,Sweet,10,0.11279
+1268,VLPTDQNFILR,Umami,11,0.09502
+1269,VLPTDQNFILR,Sweet,11,0.09502
+1270,VTADESQQDVLK,Umami,12,0.09381
+1271,VTADESQQDVLK,Sweet,12,0.09381
+1272,HLQLAIR,Kokumi,7,0.24
+1273,HLQLAIR,Umami,7,0.24
+1274,HLQLAIR,Bitter,7,0.24
+1275,DPLRGGYY,Kokumi,8,0.27
+1276,AGLQFPVGR,Bitter,9,0.26
+1277,AGLQFPVGR,Kokumi,9,0.26
+1278,LLLPGELAK,Umami,9,0.13
+1279,LLLPGELAK,Sweet,9,0.13
+1280,AGFAGDDAPR,Umami,10,0.06
+1281,AGFAGDDAPR,Sweet,10,0.06
+1282,AGFAGDDAPR,Kokumi,10,0.06
+1283,GYSFTTTAER,Sweet,10,0.11
+1284,GYSFTTTAER,Umami,10,0.11
+1285,DAGVIAGLNVLR,Umami,12,0.1
+1286,DAGVIAGLNVLR,Sweet,12,0.1
+1287,DAGVIAGLNVLR,Kokumi,12,0.1
+1288,GENEEEDSGAIVTVK,Umami,15,
+1289,GENEEEDSGAIVTVK,Bitter,15,
+1290,FSGLDGAK,Umami,8,0.89
+1291,FSGLDGAK,Sour,8,0.89
+1292,FSGLDGSK,Umami,8,0.21
+1293,FSGLDGSK,Sour,8,0.21
+1294,PDVQAAFQK,Umami,9,1.25
+1295,PDVQAAFQK,Sweet,9,1.25
+1296,FAGDDAPR,Umami,8,0.1
+1297,FAGDDAPR,Sour,8,0.1
+1298,EGTAG,Umami,5,8.26
+1299,DGF,Umami,3,0.37
+1300,DGF,Astringent,3,0.37
+1301,HHYE,Umami,4,0.43
+1302,HHYE,Astringent,4,0.43
+1303,HHYE,Sour,4,0.43
+1304,KCGQ,Umami,4,0.58
+1305,KCGQ,Astringent,4,0.58
+1306,KCGQ,Sour,4,0.58
+1307,KCGQ,Salty,4,0.58
+1308,LREY,Umami,4,0.215
+1309,LREY,Sour,4,0.215
+1310,LREY,Bitter,4,0.215
+1311,HEAL,Umami,4,0.222
+1312,HEAL,Salty,4,0.222
+1313,LAKVH,Umami,5,0.294
+1314,FQKVVA,Umami,6,0.181
+1315,FQKVVA,Sweet,6,0.181
+1316,FQKVVA,Salty,6,0.181
+1317,HVKELE,Umami,6,0.138
+1318,HVKELE,Sweet,6,0.138
+1319,AEVKKAP,Umami,7,0.168
+1320,AEVKKAP,Sweet,7,0.168
+1321,KALSEEL,Umami,7,0.132
+1322,KALSEEL,Sweet,7,0.132
+1323,EAVEKPQS,Umami,8,0.282
+1324,KKMFETES,Umami,8,0.125
+1325,KKMFETES,Sour,8,0.125
+1326,GGISTGNLN,Sour,9,0.59
+1327,GGISTGNLN,Astringent,9,0.59
+1328,AFGRSIVN,Umami,8,0.15
+1329,AFGRSIVN,Bitter,8,0.15
+1330,AFGRSIVN,Astringent,8,0.15
+1331,LLLLPKP,Umami,7,0.07
+1332,LLLLPKP,Bitter,7,0.07
+1333,LLLLPKP,Astringent,7,0.07
+1334,SSAVK,Umami,5,0.35
+1335,IIVFGRQLL,Umami,9,0.09
+1336,IIVFGRQLL,Bitter,9,0.09
+1337,IIVFGRQLL,Astringent,9,0.09
+1338,PKLLLLPKP,Sour,9,0.18
+1339,PKLLLLPKP,Umami,9,0.18
+1340,LVKGGLIP,Umami,8,0.28
+1341,LVKGGLIP,Bitter,8,0.28
+1342,LLLHALL,Sweet,7,0.03
+1343,LLLHALL,Bitter,7,0.03
+1344,PPQEAAQF,Umami,8,0.12
+1345,AEEHVEAVN,Umami,9,0.33
+1346,AEEHVEAVN,Sour,9,0.33
+1347,NEFGYSNR,Umami,8,0.16
+1348,NEFGYSNR,Sour,8,0.16
+1349,LPLQD,Umami,5,0.11
+1350,GPSGKLW,Bitter,7,0.09
+1351,DGGRYY,Umami,6,0.08
+1352,DGGRYY,Bitter,6,0.08
+1353,GPVGYGYE,Umami,8,0.18
+1354,GPVGYGYEY,Bitter,9,0.58
+1355,AGPSIVH,Sour,7,0.48
+1356,AGPSIVH,Umami,7,0.48
+1357,DFE,Umami,3,0.45
+1358,DFE,Sour,3,0.45
+1359,DFE,Kokumi,3,0.45
+1360,DFE,Astringent,3,0.45
+1361,LAGE,Sour,4,1.29
+1362,LAGE,Kokumi,4,1.29
+1363,LAGE,Umami,4,1.29
+1364,QLQ,Sour,3,1.73
+1365,QLQ,Bitter,3,1.73
+1366,QLQ,Umami,3,1.73
+1367,ATQ,Umami,3,0.51519
+1368,ATQ,Sweet,3,0.42095
+1369,LPG,Bitter,3,0.93454
+1370,LPG,Umami,3,2.80363
+1371,ECH,Sweet,3,0.4672
+1372,ECH,Umami,3,0.47494
+1373,RGG,Bitter,3,0.92494
+1374,RGG,Umami,3,1.38741
+1375,RVF,Bitter,3,0.35671
+1376,NQS,Sweet,3,0.39444
+1377,NQS,Umami,3,0.42611
+1378,PKALSAFK,Sour,8,0.104
+1379,NKHGSGK,Umami,7,0.258
+1380,NKHGSGK,Sour,7,0.258
+1381,VIFGETLTGR,Bitter,10,0.086
+1382,VIFGETLTGR,Astringent,10,0.086
+1383,AFQWTAWR,Bitter,8,0.022
+1384,AFQWTAWR,Astringent,8,0.022
+1385,SADETPR,Umami,7,0.242
+1386,SADETPR,Sour,7,0.242
+1387,SADETPR,Sweet,7,0.242
+1388,SDRKIPEK,Umami,8,0.386
+1389,SDRKIPEK,Sour,8,0.386
+1390,SDRKIPEK,Sweet,8,0.386
+1391,EIKKAALDANEK,Umami,12,0.035
+1392,EIKKAALDANEK,Sour,12,0.035
+1393,DALAHK,Sour,6,0.287
+1394,LDDGR,Umami,5,0.163
+1395,LDDGR,Sour,5,0.163
+1396,GHENQR,Umami,6,0.127
+1397,GHENQR,Sour,6,0.127
+1398,EDEGEQPRPF,Umami,10,0.13
+1399,EDEGEQPRPF,Salty,10,0.13
+1400,VGPDDDEKSW,Umami,10,0.16
+1401,VGPDDDEKSW,Kokumi,10,0.16
+1402,DEDEQPRPIP,Umami,10,0.05
+1403,DEDEQPRPIP,Kokumi,10,0.05
+1404,DEGEQPRPFP,Umami,10,0.06
+1405,DEGEQPRPFP,Kokumi,10,0.06
+1406,LERM,Umami,4,0.171
+1407,LERM,Astringent,4,0.171
+1408,FGEKL,Umami,5,0.316
+1409,FGEKL,Astringent,5,0.316
+1410,FGEKL,Salty,5,0.316
+1411,ELLKLH,Umami,6,0.249
+1412,ELLKLH,Sour,6,0.249
+1413,LLEEKLK,Umami,7,0.215
+1414,LLEEKLK,Astringent,7,0.215
+1415,KSQAKEVK,Sweet,8,0.102
+1416,KSQAKEVK,Kokumi,8,0.102
+1417,AQKDEEKME,Umami,9,0.169
+1418,AQKDEEKME,Sour,9,0.169
+1419,DCG,Umami,3,
+1420,DD,Umami,2,
+1421,DD,Salty,2,3.33
+1422,DE,Umami,2,3.24
+1423,DE,Salty,2,
+1424,ED,Umami,2,
+1425,ED,Salty,2,1.74
+1426,EE,Umami,2,2.22
+1427,EE,Salty,2,
+1428,DDD,Salty,3,2.22
+1429,DDD,Umami,3,
+1430,DDE,Umami,3,2.06
+1431,DDE,Salty,3,
+1432,DED,Umami,3,2.68
+1433,DED,Salty,3,
+1434,EDD,Salty,3,3.23
+1435,EDD,Umami,3,
+1436,DEE,Umami,3,2.09
+1437,DEE,Salty,3,
+1438,EDE,Salty,3,3.09
+1439,EDE,Umami,3,
+1440,EED,Umami,3,3.47
+1441,EED,Salty,3,
+1442,EEE,Umami,3,2.09
+1443,EEE,Salty,3,
+1444,EEE,Tasteless,3,
+1445,KGDEESLA,Umami,8,1.25
+1446,KGDEESLA,Sour,8,
+1447,KG,Salty,2,1.22
+1448,KG,Umami,2,
+1449,KGD,Sweet,3,1.3
+1450,SLA,Bitter,3,2.4
+1451,SLADEEKG,Umami,8,0.94
+1452,SLADEEKG,Sour,8,
+1453,SLAKGDEE,Sour,8,
+1454,SLAKGDEE,Umami,8,0.78
+1455,KGSLADEE,Sour,8,
+1456,KGSLADEE,Umami,8,0.78
+1457,KGSLADEE,Sweet,8,
+1458,KGDEE,Sour,5,
+1459,KGDEE,Salty,5,1.41
+1460,KGDEE,Sweet,5,
+1461,EEDGK,Sour,5,
+1462,EEDGK,Umami,5,1.25
+1463,EEDGK,Sweet,5,
+1464,SD,Umami,2,
+1465,ESE,Umami,3,
+1466,ED,Umami,2,
+1467,DES,Umami,3,
+1468,TE,Umami,2,
+1469,EGS,Umami,3,
+1470,ES,Umami,2,
+1471,EDV,Umami,3,
+1472,EE,Umami,2,
+1473,SEE,Umami,3,
+1474,DL,Umami,2,
+1475,ID,Umami,2,
+1476,EQE,Umami,3,
+1477,IEE,Umami,3,
+1478,IE,Umami,2,
+1479,DFKREP,Umami,6,0.19984
+1480,DFKREP,Kokumi,6,0.19984
+1481,DREKFDE,Kokumi,7,0.28416
+1482,DEDFKREP,Sour,8,0.11667
+1483,L,Bitter,1,20
+1484,L,Sweet,1,6
+1485,LL,Bitter,2,2.5
+1486,LLL,Bitter,3,1.2
+1487,LLLL,Bitter,4,0.6
+1488,G,Sweet,1,20
+1489,LG,Bitter,2,20
+1490,GL,Bitter,2,25
+1491,LGG,Bitter,3,75
+1492,GLG,Bitter,3,10
+1493,GGL,Bitter,3,10
+1494,LLG,Bitter,3,5
+1495,LGL,Bitter,3,5
+1496,GLL,Bitter,3,1.5
+1497,LLL,Bitter,3,1.2
+1498,LGGG,Bitter,4,13
+1499,GLGG,Bitter,4,19
+1500,GGLG,Bitter,4,25
+1501,GGGL,Bitter,4,4.5
+1502,LGGGG,Bitter,5,13
+1503,GLGGG,Bitter,5,13
+1504,GGLGG,Bitter,5,13
+1505,GGGLG,Bitter,5,13
+1506,GGGGL,Bitter,5,2.2
+1507,LL,Bitter,2,2.5
+1508,LL,Bitter,2,2.5
+1509,LL,Bitter,2,2.5
+1510,GL,Bitter,2,25
+1511,LG,Bitter,2,20
+1512,LI,Bitter,2,4
+1513,LV,Bitter,2,6
+1514,LF,Bitter,2,1.2
+1515,VL,Bitter,2,6
+1516,IL,Bitter,2,1.5
+1517,FL,Bitter,2,1.2
+1518,G,Sweet,1,38
+1519,A,Sweet,1,25
+1520,AA,Sweet,2,6
+1521,AAA,Sweet,3,3
+1522,VV,Umami,2,25
+1523,VVV,Bitter,3,4.5
+1524,VVVV,Bitter,4,2
+1525,F,Bitter,1,19
+1526,FF,Bitter,2,1.2
+1527,FFF,Bitter,3,0.2
+1528,FFGG,Bitter,4,3
+1529,FGFG,Bitter,4,0.3
+1530,FGGF,Bitter,4,0.12
+1531,RPFF,Bitter,4,0.04
+1532,RPFFRPFF,Bitter,8,0.01
+1533,RPFFRPFFRPFF,Bitter,12,0.01
+1534,RGPPFIV,Bitter,7,0.05
+1535,RGPPFIVRGPPFIV,Bitter,14,0.04
+1536,RGPFPIIV,Bitter,8,0.004
+1537,PVRGPFPIIV,Bitter,10,0.004
+1538,PVLGPVRGPFPIIV,Bitter,14,0.015
+1539,RGPFPIIV,Bitter,8,0.004
+1540,RGPFPIIV,Bitter,8,0.083
+1541,RGPKPIIV,Bitter,8,0.016
+1542,RGPGPIIV,Bitter,8,0.083
+1543,RGPEPIIV,Bitter,8,0.031
+1544,RGPPFIIV,Bitter,8,0.05
+1545,R,Bitter,1,25
+1546,RR,Bitter,2,8
+1547,RRR,Bitter,3,4
+1548,P,Bitter,1,13
+1549,PP,Bitter,2,4.5
+1550,PPP,Bitter,3,2
+1551,F,Bitter,1,19
+1552,FF,Bitter,2,1.2
+1553,FFF,Bitter,3,0.2
+1554,RP,Bitter,2,0.8
+1555,PR,Bitter,2,3
+1556,RF,Bitter,2,2.3
+1557,PF,Bitter,2,19.5
+1558,KP,Bitter,2,3
+1559,RG,Bitter,2,8
+1560,GR,Bitter,2,100
+1561,GP,Bitter,2,6
+1562,FG,Bitter,2,6
+1563,GF,Bitter,2,1.2
+1564,FGG,Bitter,3,4.5
+1565,GFG,Bitter,3,3
+1566,GGF,Bitter,3,1.5
+1567,FFG,Bitter,3,2.2
+1568,FGF,Bitter,3,1.2
+1569,GFF,Bitter,3,0.6
+1570,RGP,Bitter,3,13
+1571,PGR,Bitter,3,26
+1572,RPG,Bitter,3,0.8
+1573,GRP,Bitter,3,0.8
+1574,RPF,Bitter,3,1.5
+1575,RPFF,Bitter,4,0.04
+1576,RRPFF,Bitter,5,0.02
+1577,RRPPFF,Bitter,6,0.007
+1578,RPPPFFF,Bitter,7,0.02
+1579,RRPPPFFF,Bitter,8,0.002
+1580,VYPFPPGINH,Bitter,10,0.05
+1581,RGPPFIV,Bitter,7,0.05
+1582,NWDDMEK,Umami,7,0.38
+1583,NWDDMEK,Sweet,7,
+1584,KTGLSPDQF,Umami,9,1.04
+1585,KTGLSPDQF,Sweet,9,
+1586,KTDLNFENL,Umami,9,0.92
+1587,ASLDGEFKG,Umami,9,0.54
+1588,ASLDGEFKG,Kokumi,9,
+1589,ASLDGEFKG,Sweet,9,
+1590,ALASLDGEFKG,Umami,11,0.45
+1591,ALASLDGEFKG,Kokumi,11,
+1592,ALASLDGEFKG,Sweet,11,
+1593,ALTSLDGEFKG,Umami,11,0.44
+1594,RLGSSEVEQVQ,Umami,11,0.81
+1595,DVILPVPAF,Umami,9,0.258
+1596,DVILPVPAF,Sour,9,
+1597,TVAGGAWTYNTTSAVTVK,Umami,18,0.799
+1598,TVAGGAWTYNTTSAVTVK,Sour,18,
+1599,AMLEQVAMTDK,Umami,11,0.273
+1600,AMLEQVAMTDK,Sour,11,
+1601,GGKLVVDGHAIT,Umami,12,0.437
+1602,GGKLVVDGHAIT,Sour,12,
+1603,IGAEVYHNLK,Umami,10,0.858
+1604,IGAEVYHNLK,Sour,10,
+1605,VDFDDLHR,Umami,8,0.37
+1606,VDFDDLHR,Sweet,8,0.37
+1607,KEPNRQWTPR,Umami,10,0.4
+1608,KEPNRQWTPR,Sweet,10,0.4
+1609,PFGNTHNNFK,Umami,10,0.49
+1610,PFGNTHNNFK,Sweet,10,0.49
+1611,PFGNTHNNFK,Astringent,10,0.49
+1612,YDSTHGRFKGEVK,Umami,13,0.41
+1613,YDSTHGRFKGEVK,Sweet,13,0.41
+1614,TGESGAGKTVNTKR,Umami,14,0.38
+1615,TGESGAGKTVNTKR,Sweet,14,0.38
+1616,AGKNTNGSQF,Umami,10,0.4
+1617,AGKNTNGSQF,Sweet,10,0.4
+1618,AGKNTNGSQF,Bitter,10,0.4
+1619,DEAVARGATF,Umami,10,0.34
+1620,DEAVARGATF,Sweet,10,0.34
+1621,REESDFQSSF,Umami,10,0.31
+1622,REESDFQSSF,Sweet,10,0.31
+1623,SEETTTGVHH,Umami,10,0.21
+1624,SEETTTGVHH,Sweet,10,0.21
+1625,WNNDAFQSSTN,Umami,11,0.28
+1626,WNNDAFQSSTN,Sweet,11,0.28
+1627,FAGDDAPR,Umami,8,0.22998
+1628,FAGDDAPR,Sweet,8,0.22998
+1629,HEGEQGQEG,Umami,9,0.30506
+1630,HEGEQGQEG,Sweet,9,0.30506
+1631,AAPHENATLH,Umami,10,0.22411
+1632,AAPHENATLH,Sweet,10,0.22411
+1633,ESHQQTLDD,Umami,9,0.2462
+1634,ESHQQTLDD,Sweet,9,0.2462
+1635,GEVED,Umami,5,0.47976
+1636,GEVED,Sour,5,0.47976
+1637,LPG,Sweet,3,0.21903
+1638,LPG,Salty,3,0.43807
+1639,LPG,Umami,3,0.30976
+1640,LPGD,Sweet,4,0.03902
+1641,LPGD,Salty,4,0.07804
+1642,LPGD,Umami,4,0.1376
+1643,DAP,Sweet,3,0.20744
+1644,DAP,Salty,3,0.41487
+1645,DAP,Umami,3,0.20744
+1646,EDAP,Sweet,4,0.0726
+1647,EDAP,Umami,4,0.35755
+1648,LS,Bitter,2,0.14318
+1649,LS,Salty,2,0.57273
+1650,LS,Astringent,2,0.57273
+1651,LSE,Sweet,3,0.35985
+1652,LSE,Bitter,3,2.87879
+1653,LSE,Umami,3,0.20409
+1654,AT,Sweet,2,0.21903
+1655,AT,Salty,2,0.43807
+1656,AT,Umami,2,0.34047
+1657,DAT,Sweet,3,0.03902
+1658,DAT,Salty,3,0.07804
+1659,DAT,Umami,3,0.25356
+1660,PTVEVDLH,Umami,8,0.39
+1661,PTVEVDLH,Sour,8,0.39
+1662,AEEHVEAVN,Umami,9,0.18
+1663,AEEHVEAVN,Sour,9,0.18
+1664,PKESEKPN,Umami,8,0.76
+1665,AEINKILGN,Umami,9,0.73
+1666,AEINKILGN,Sweet,9,0.73
+1667,LPLQDAH,Bitter,7,0.22
+1668,LPLQDAH,Sour,7,0.22
+1669,IQKELQF,Sour,7,0.02
+1670,IQKELQF,Umami,7,0.02
+1671,IQKELQF,Bitter,7,0.02
+1672,PEDVIMGAF,Sour,9,0.02
+1673,PEDVIMGAF,Umami,9,0.02
+1674,AKYDDIK,Sour,7,1.17
+1675,AKYDDIK,Umami,7,1.17
+1676,AKYDDIK,Bitter,7,1.17
+1677,TPLVDR,Bitter,6,0.13
+1678,TPLVDR,Sour,6,0.13
+1679,PAYQVDKGN,Sour,9,0.71
+1680,PAYQVDKGN,Umami,9,0.71
+1681,VGNEFVTKG,Umami,9,0.37
+1682,VGNEFVTKG,Sour,9,0.37
+1683,VGNEFVTKG,Bitter,9,0.37
+1684,SAELLK,Sour,6,0.13
+1685,SAELLK,Bitter,6,0.13
+1686,SAELLK,Umami,6,0.13
+1687,GIQKELQF,Umami,8,0.18
+1688,GIQKELQF,Sour,8,0.18
+1689,TEDWGR,Sour,6,0.46
+1690,FTERVQ,Umami,6,0.91
+1691,FTERVQ,Sour,6,0.91
+1692,GSAQA,Sweet,5,1.387
+1693,GSAQA,Umami,5,
+1694,ISKEK,Umami,5,0.745
+1695,ISKEK,Sweet,5,
+1696,ISKEK,Astringent,5,
+1697,LPKERLYV,Umami,8,0.246
+1698,LPKERLYV,Salty,8,
+1699,LPKERLYV,Sweet,8,
+1700,VENQQLAL,Umami,8,0.219
+1701,VENQQLAL,Salty,8,
+1702,VENQQLAL,Sweet,8,
+1703,VENQQLAL,Sour,8,
+1704,DQEDDLDESLIGVK,Umami,14,0.1
+1705,DQEDDLDESLIGVK,Sweet,14,
+1706,FNEIIKETST,Umami,10,0.26
+1707,FNEIIKETST,Sweet,10,
+1708,YNEYPPLGR,Umami,9,0.14
+1709,YNEYPPLGR,Sour,9,
+1710,TPDFVR,Sour,6,
+1711,TPDFVR,Salty,6,
+1712,TPDLLH,Sour,6,
+1713,TPDLLH,Salty,6,
+1714,EVG,Kokumi,3,
+1715,WVNEEDHL,Sour,8,
+1716,WVNEEDHL,Astringent,8,
+1717,NSLEGEFKG,Sour,9,
+1718,NSLEGEFKG,Astringent,9,
+1719,KDLFDPVIQD,Astringent,10,
+1720,DD,Salty,2,
+1721,DD,Umami,2,
+1722,DD,Sour,2,
+1723,ED,Salty,2,
+1724,ED,Umami,2,
+1725,ED,Sour,2,
+1726,DDD,Salty,3,
+1727,DDD,Umami,3,
+1728,SPE,Salty,3,
+1729,SPE,Sour,3,
+1730,FI,Salty,2,
+1731,FI,Bitter,2,
+1732,GLPD,Umami,4,
+1733,GLPD,Salty,4,
+1734,GLPD,Kokumi,4,
+1735,GHGD,Umami,4,
+1736,GHGD,Salty,4,
+1737,GHGD,Kokumi,4,
+1738,GQEDYDRLRPL,Umami,11,0.117
+1739,VVVGTPGRVF,Umami,10,0.403
+1740,ESPERPFL,Umami,8,0.254
+1741,HLYHPVPIEE,Umami,10,0.64
+1742,GPVRGPFPIIV,Bitter,11,
+1743,MAPKHKEMPFPKYPVEPF,Bitter,18,
+1744,APHGKEMPFPKYPVEPF,Bitter,17,
+1745,YQEPVLGPVRGPFPI,Bitter,15,
+1746,LDELEK,Umami,6,0.168
+1747,DVELSK,Umami,6,0.091
+1748,LPDEAR,Umami,6,0.179
+1749,LPGVAE,Umami,6,0.214
+1750,TTLPDK,Umami,6,0.371
+1751,FTKK,Kokumi,4,5
+1752,FTKK,Sour,4,5
+1753,KEDVPSERY,Sour,9,0.5
+1754,KEDVPSERY,Bitter,9,0.5
+1755,CKEVVRNANE,Kokumi,10,3
+1756,EELNVPG,Kokumi,7,2.5
+1757,VPNSAEER,Kokumi,8,1.5
+1758,YPVEPFTER,Kokumi,9,3
+1759,LK,Bitter,2,2.4
+1760,ECG,Sour,3,4.1
+1761,LQ,Bitter,2,1.2
+1762,LA,Bitter,2,3.1
+1763,LE,Bitter,2,2.4
+1764,YE,Bitter,2,8
+1765,EL,Bitter,2,4.8
+1766,LT,Bitter,2,1.3
+1767,AY,Bitter,2,4.9
+1768,AL,Bitter,2,6.2
+1769,EY,Bitter,2,4
+1770,TFYNELRV,Bitter,8,
+1771,TFYNELRV,Astringent,8,
+1772,TFYNELR,Umami,7,0.55
+1773,TFYNELR,Salty,7,0.55
+1774,TLFQPSF,Umami,7,0.43
+1775,LYANNVL,Umami,7,0.51
+1776,FAGDDAPRAVFPS,Umami,13,0.33
+1777,EPLCNQ,Umami,6,0.178
+1778,SGCVNEL,Umami,7,0.174
+1779,PHEMQ,Umami,5,0.39
+1780,SEPSHF,Umami,6,0.356
+1781,ESCAPQL,Umami,7,0.167
+1782,AL,Bitter,2,
+1783,AV,Bitter,2,
+1784,GI,Bitter,2,
+1785,GL,Bitter,2,
+1786,GL,Bitter,2,
+1787,GF,Bitter,2,
+1788,GF,Bitter,2,
+1789,GP,Bitter,2,
+1790,GW,Bitter,2,
+1791,GY,Bitter,2,
+1792,GV,Bitter,2,
+1793,IA,Bitter,2,
+1794,IN,Bitter,2,
+1795,ID,Bitter,2,
+1796,IQ,Bitter,2,
+1797,IE,Bitter,2,
+1798,IG,Bitter,2,
+1799,II,Bitter,2,
+1800,IL,Bitter,2,
+1801,IK,Bitter,2,
+1802,IP,Bitter,2,
+1803,IS,Bitter,2,
+1804,IT,Bitter,2,
+1805,IW,Bitter,2,
+1806,IV,Bitter,2,
+1807,LA,Bitter,2,
+1808,LG,Bitter,2,
+1809,LG,Bitter,2,
+1810,LL,Bitter,2,
+1811,LL,Bitter,2,
+1812,LL,Bitter,2,
+1813,LW,Bitter,2,
+1814,LY,Bitter,2,
+1815,FG,Bitter,2,
+1816,FL,Bitter,2,
+1817,FF,Bitter,2,
+1818,FP,Bitter,2,
+1819,FY,Bitter,2,
+1820,FF,Bitter,2,
+1821,FY,Bitter,2,
+1822,FL,Bitter,2,
+1823,SL,Bitter,2,
+1824,YE,Bitter,2,
+1825,YY,Bitter,2,
+1826,YL,Bitter,2,
+1827,VA,Bitter,2,
+1828,VG,Bitter,2,
+1829,VL,Bitter,2,
+1830,VV,Bitter,2,
+1831,AAL,Bitter,3,
+1832,AIA,Bitter,3,
+1833,GAL,Bitter,3,
+1834,GGL,Bitter,3,
+1835,GLG,Bitter,3,
+1836,GLG,Bitter,3,
+1837,LQL,Bitter,3,
+1838,LEL,Bitter,3,
+1839,LGG,Bitter,3,
+1840,LGL,Bitter,3,
+1841,LLL,Bitter,3,
+1842,LVL,Bitter,3,
+1843,FGGF,Bitter,4,
+1844,LPFNQL,Bitter,6,
+1845,LPFSQL,Bitter,6,
+1846,SFEAVEAAPT,Umami,10,0.86
+1847,ALDELGT,Umami,7,1.84
+1848,SAALQAG,Umami,7,0.95
+1849,AELTPEP,Umami,7,0.77
+1850,EQDNDGNNIFSGFKR,Bitter,15,0.76
+1851,QTFNTEEDTAK,Bitter,11,1.03
+1852,ASCNGVCSPFDIPPCGSPLCRCIPVGLVIGKCRNPYG,Bitter,37,0.001
+1853,MDAIKKMQ,Sour,8,0.83
+1854,RKYEEVAR,Umami,8,0.381
+1855,RKYEEVAR,Sour,8,0.381
+1856,IVGRPRHQG,Bitter,9,0.294
+1857,IVGRPRHQG,Sour,9,0.294
+1858,YVGDEAQSKRG,Umami,11,0.248
+1859,YVGDEAQSKRG,Sour,11,0.248
+1860,VNVDEVGGEALGR,Umami,13,0.19
+1861,VNVDEVGGEALGR,Sour,13,0.19
+1862,LDF,Umami,3,0.635
+1863,FVT,Umami,3,0.171
+1864,DLAGRDLTDYLMKIL,Umami,15,0.0719
+1865,YPFPGPIHNS,Bitter,10,0.05
+1866,YPFPGPIPN,Bitter,9,0.23
+1867,YPFPGPIHN,Bitter,9,0.1
+1868,LPQE,Bitter,4,0.6
+1869,DIKQM,Bitter,5,0.6
+1870,VYPFPGPIPN,Bitter,10,0.17
+1871,EIVPN,Bitter,5,0.43
+1872,VRGPFP,Bitter,6,0.42
+1873,GPVRGPFP,Bitter,8,1.18
+1874,SLVYPFPGPIHNS,Bitter,13,0.06
+1875,LVYPFPGPIHN,Bitter,11,0.08
+1876,MI,Bitter,2,0.42
+1877,L,Bitter,1,11
+1878,Y,Bitter,1,4
+1879,I,Bitter,1,10
+1880,W,Bitter,1,4
+1881,K,Bitter,1,80
+1882,V,Bitter,1,30
+1883,F,Bitter,1,45
+1884,R,Bitter,1,75
+1885,H,Bitter,1,45
+1886,E,Umami,1,3
+1887,D,Umami,1,4
+1888,A,Sweet,1,8
+1889,S,Sweet,1,30
+1890,T,Sweet,1,40
+1891,P,Sweet,1,26
+1892,I,Bitter,1,11
+1893,L,Bitter,1,12
+1894,Y,Bitter,1,5
+1895,W,Bitter,1,5
+1896,V,Bitter,1,21
+1897,C,Salty,1,2
+1898,M,Salty,1,5
+1899,Q,Umami,1,50
+1900,N,Umami,1,50
+1901,M,Sweet,1,5
+1902,A,Sweet,1,12
+1903,S,Sweet,1,25
+1904,G,Sweet,1,25
+1905,P,Sweet,1,25
+1906,T,Sweet,1,35
+1907,E,Umami,1,3
+1908,D,Umami,1,4
+1909,A,Sweet,1,8
+1910,S,Sweet,1,30
+1911,T,Sweet,1,40
+1912,P,Sweet,1,26
+1913,I,Bitter,1,11
+1914,L,Bitter,1,12
+1915,Y,Bitter,1,5
+1916,W,Bitter,1,5
+1917,V,Bitter,1,21
+1918,C,Salty,1,2
+1919,GDG,Umami,3,1.5
+1920,GDG,Tasteless,3,
+1921,ADA,Bitter,3,13
+1922,ADA,Umami,3,3
+1923,VDV,Umami,3,13
+1924,LDL,Bitter,3,0.8
+1925,GEG,Bitter,3,1.5
+1926,GEG,Umami,3,1.5
+1927,AEA,Umami,3,0.8
+1928,VYPFPPIGNH,Bitter,10,
+1929,F,Bitter,1,20
+1930,F,Sweet,1,2.2
+1931,FG,Bitter,2,6
+1932,GF,Bitter,2,1.2
+1933,FF,Bitter,2,1.2
+1934,FGG,Bitter,3,4.5
+1935,GFG,Bitter,3,3
+1936,GGF,Bitter,3,1.5
+1937,FFG,Bitter,3,2.2
+1938,FGF,Bitter,3,1.2
+1939,GFF,Bitter,3,0.6
+1940,FFF,Bitter,3,0.2
+1941,TG,Bitter,2,3
+1942,GY,Bitter,2,3
+1943,YY,Bitter,2,2.3
+1944,YGG,Bitter,3,2.3
+1945,GYG,Bitter,3,19
+1946,GGY,Bitter,3,1.5
+1947,YYG,Bitter,3,0.6
+1948,YGY,Bitter,3,0.8
+1949,GYY,Bitter,3,0.4
+1950,YYY,Bitter,3,0.2
+1951,VYPFPPIGNH,Bitter,10,0.05
+1952,VY,Bitter,2,3
+1953,VYP,Bitter,3,3
+1954,VYPF,Bitter,4,0.3
+1955,YP,Bitter,2,19
+1956,YPF,Bitter,3,0.3
+1957,PFP,Bitter,3,0.4
+1958,PFPP,Bitter,4,4.5
+1959,GF,Bitter,2,1.2
+1960,AF,Bitter,2,12.5
+1961,VF,Bitter,2,3
+1962,LF,Bitter,2,1.3
+1963,IF,Bitter,2,1.5
+1964,FF,Bitter,2,1.2
+1965,YF,Bitter,2,0.8
+1966,PF,Bitter,2,38
+1967,SF,Umami,2,9
+1968,TF,Astringent,2,2.3
+1969,KF,Bitter,2,9
+1970,KF,Sweet,2,4.5
+1971,RF,Bitter,2,2.3
+1972,DF,Sour,2,
+1973,EF,Sour,2,
+1974,VIF,Bitter,3,1.3
+1975,KPF,Bitter,3,0.4
+1976,RPF,Bitter,3,1.5
+1977,PPF,Bitter,3,2.3
+1978,FPF,Bitter,3,0.4
+1979,RPFF,Bitter,4,0.04
+1980,RRPFF,Bitter,5,0.02
+1981,FF,Bitter,2,1.2
+1982,FF,Bitter,2,1.2
+1983,FF,Bitter,2,1.2
+1984,FF,Bitter,2,1.2
+1985,FG,Bitter,2,6
+1986,FG,Bitter,2,9
+1987,FV,Bitter,2,6
+1988,FL,Bitter,2,1.5
+1989,FI,Bitter,2,1.5
+1990,FIV,Bitter,3,1.5
+1991,FP,Bitter,2,1.5
+1992,FPP,Bitter,3,4.5
+1993,FPK,Bitter,3,3
+1994,FPF,Bitter,3,0.4
+1995,FFPP,Bitter,4,3
+1996,RPFF,Bitter,4,0.04
+1997,RRPFF,Bitter,5,0.02
+1998,RRPPFF,Bitter,6,0.007
+1999,RPPPFFF,Bitter,7,0.02
+2000,RRPPPFFF,Bitter,8,0.002
+2001,GPFF,Bitter,4,0.16
+2002,RGFF,Bitter,4,0.16
+2003,RPGF,Bitter,4,0.16
+2004,RPFG,Bitter,4,0.39
+2005,FFPR,Bitter,4,0.1
+2006,RPGFF,Bitter,5,0.31
+2007,RPGGFF,Bitter,6,0.09
+2008,RPFF,Bitter,4,0.03
+2009,RPFF,Bitter,4,0.19
+2010,RPFF,Bitter,4,0.08
+2011,RPFFRPFF,Bitter,8,0.01
+2012,FFRPFFRPFF,Bitter,10,0.007
+2013,RPFFRPFFRPFF,Bitter,12,0.01
+2014,KPPFIV,Bitter,6,0.15
+2015,FPPFIV,Bitter,6,0.3
+2016,DPPFIV,Bitter,6,0.08
+2017,YQEPVLGPVRGPFPIIV,Bitter,17,
+2018,AD,Bitter,2,6
+2019,VD,Bitter,2,13
+2020,LD,Bitter,2,6
+2021,GE,Bitter,2,1.5
+2022,VE,Bitter,2,6
+2023,LE,Bitter,2,3
+2024,D,Umami,1,
+2025,D,Sour,1,
+2026,E,Umami,1,
+2027,E,Sour,1,
+2028,AGG,Sweet,3,0.8
+2029,GAG,Sweet,3,0.8
+2030,GGA,Sweet,3,0.8
+2031,AAG,Sweet,3,0.8
+2032,AGA,Sweet,3,0.8
+2033,GAA,Sweet,3,0.8
+2034,AED,Sour,3,
+2035,V,Bitter,1,
+2036,L,Bitter,1,
+2037,I,Bitter,1,
+2038,P,Bitter,1,
+2039,F,Bitter,1,
+2040,Y,Bitter,1,
+2041,W,Bitter,1,
+2042,K,Bitter,1,
+2043,R,Bitter,1,
+2044,H,Bitter,1,
+2045,GV,Bitter,2,
+2046,GL,Bitter,2,
+2047,GI,Bitter,2,
+2048,GP,Bitter,2,
+2049,GF,Bitter,2,
+2050,GW,Bitter,2,
+2051,GY,Bitter,2,
+2052,AV,Bitter,2,
+2053,AL,Bitter,2,
+2054,AF,Bitter,2,
+2055,VG,Bitter,2,
+2056,VA,Bitter,2,
+2057,VV,Bitter,2,
+2058,VL,Bitter,2,
+2059,LG,Bitter,2,
+2060,LA,Bitter,2,
+2061,LL,Bitter,2,
+2062,LF,Bitter,2,
+2063,LW,Bitter,2,
+2064,LY,Bitter,2,
+2065,IG,Bitter,2,
+2066,IA,Bitter,2,
+2067,IV,Bitter,2,
+2068,IL,Bitter,2,
+2069,II,Bitter,2,
+2070,IP,Bitter,2,
+2071,IW,Bitter,2,
+2072,IN,Bitter,2,
+2073,ID,Bitter,2,
+2074,IQ,Bitter,2,
+2075,IE,Bitter,2,
+2076,IK,Bitter,2,
+2077,IS,Bitter,2,
+2078,IT,Bitter,2,
+2079,PA,Bitter,2,
+2080,PL,Bitter,2,
+2081,PI,Bitter,2,
+2082,PY,Bitter,2,
+2083,PF,Bitter,2,
+2084,FG,Bitter,2,
+2085,FL,Bitter,2,
+2086,FP,Bitter,2,
+2087,FF,Bitter,2,
+2088,FY,Bitter,2,
+2089,WE,Bitter,2,
+2090,WW,Bitter,2,
+2091,YL,Bitter,2,
+2092,SL,Bitter,2,
+2093,GGL,Bitter,3,
+2094,GLY,Bitter,3,
+2095,LGG,Bitter,3,
+2096,LGL,Bitter,3,
+2097,LVL,Bitter,3,
+2098,LLL,Bitter,3,
+2099,LQL,Bitter,3,
+2100,LEL,Bitter,3,
+2101,AIA,Bitter,3,
+2102,AAL,Bitter,3,
+2103,GAL,Bitter,3,
+2104,FGGF,Bitter,4,
+2105,FGFG,Bitter,4,
+2106,LPFDQL,Bitter,6,
+2107,LPFSQL,Bitter,6,
+2108,GL,Bitter,2,
+2109,LL,Bitter,2,
+2110,LL,Bitter,2,
+2111,QLFNPS,Bitter,6,
+2112,QLFNPS,Astringent,6,
+2113,QLFNPSTNP,Bitter,9,
+2114,QLFNPSTNPWH,Bitter,11,
+2115,QLFNPSTNPWHSP,Bitter,13,
+2116,QLFGPNVNPWHNP,Bitter,13,
+2117,GPVRGPFPIIV,Bitter,11,
+2118,YQEPVLGPVRGPFPI,Bitter,15,
+2119,MPFPKYPVEP,Bitter,10,
+2120,MAPKHKEMPFPKYPVEPF,Bitter,18,
+2121,APHGKEMPFPKYPVEPF,Bitter,17,
+2122,NP,Umami,2,0.763
+2123,AH,Umami,2,0.707
+2124,DWTDDVEAR,Umami,9,0.07
+2125,DWTDDVEAR,Salty,9,0.07
+2126,DWTDDVEAR,Sour,9,0.07
+2127,RDETLDDW,Umami,8,0.09
+2128,RDETLDDW,Salty,8,0.09
+2129,RDETLDDW,Sour,8,0.09
+2130,FDELLEK,Umami,7,0.15
+2131,FDELLEK,Salty,7,0.15
+2132,FDELLEK,Bitter,7,0.15
+2133,LIDVDGKPQ,Umami,9,0.17
+2134,LIDVDGKPQ,Salty,9,0.17
+2135,LIDVDGKPQ,Bitter,9,0.17
+2136,TIGHVDHGKTTLT,Umami,13,0.19
+2137,TIGHVDHGKTTLT,Sweet,13,0.19
+2138,TIGHVDHGKTTLT,Astringent,13,0.19
+2139,LPLQDVYK,Umami,8,0.21
+2140,LPLQDVYK,Sour,8,0.21
+2141,LPLQDVYK,Bitter,8,0.21
+2142,VDEYIPTPER,Umami,10,0.23
+2143,VDEYIPTPER,Sour,10,0.23
+2144,VDEYIPTPER,Bitter,10,0.23
+2145,GKVQPEDNKGVF,Astringent,12,0.24
+2146,VPVDILDHDNN,Bitter,11,0.26
+2147,VPVDILDHDNN,Umami,11,0.26
+2148,VPVDILDHDNN,Salty,11,0.26
+2149,YVDPNVLPE,Sweet,9,0.42
+2150,YVDPNVLPE,Umami,9,0.42
+2151,YVDPNVLPE,Bitter,9,0.42
+2152,TGWVDVK,Sour,7,0.55
+2153,TGWVDVK,Umami,7,0.55
+2154,TGWVDVK,Salty,7,0.55
+2155,IDVDGKPQIQ,Umami,10,0.56
+2156,IDVDGKPQIQ,Salty,10,0.56
+2157,IDVDGKPQIQ,Sour,10,0.56
+2158,VQPEDNKGVFQ,Umami,11,0.61
+2159,VQPEDNKGVFQ,Salty,11,0.61
+2160,VQPEDNKGVFQ,Astringent,11,0.61
+2161,MTLERPW,Umami,7,0.498
+2162,MTLERPW,Bitter,7,
+2163,MTLERPW,Astringent,7,
+2164,MNLHLSF,Umami,7,0.415
+2165,MNLHLSF,Bitter,7,
+2166,MNLHLSF,Sweet,7,
+2167,EAF,Umami,3,0.547
+2168,EAF,Sweet,3,
+2169,EHGE,Umami,4,0.282
+2170,SNGNE,Umami,5,0.214
+2171,SNGNE,Salty,5,
+2172,SNGNE,Sweet,5,
+2173,DGFASD,Umami,6,0.149
+2174,MGPENGV,Umami,7,0.105
+2175,MGPENGV,Sweet,7,
+2176,FLNQDEEAR,Umami,9,0.517
+2177,FLNQDEEAR,Bitter,9,
+2178,FNKEE,Umami,5,0.571
+2179,EEFLK,Umami,5,0.827
+2180,LADW,Umami,4,0.2482
+2181,MEIDD,Umami,5,0.2011
+2182,MEIDD,Sour,5,
+2183,VAEQE,Umami,5,0.2175
+2184,VAEQE,Sour,5,
+2185,EEAEGT,Sour,6,
+2186,EEAEGT,Umami,6,0.394
+2187,CN,Sour,2,
+2188,CN,Umami,2,0.2
+2189,CN,Sweet,2,
+2190,SM,Sour,2,
+2191,SM,Umami,2,0.2
+2192,SM,Astringent,2,
+2193,CRD,Sour,3,
+2194,CRD,Umami,3,
+2195,CRD,Sweet,3,0.06
+2196,GESMTDGF,Sour,8,
+2197,GESMTDGF,Umami,8,0.11
+2198,GESMTDGF,Sweet,8,
+2199,MS,Sour,2,
+2200,MS,Umami,2,0.2
+2201,MS,Bitter,2,
+2202,DGC,Sour,3,
+2203,DGC,Umami,3,0.16
+2204,DGC,Sweet,3,
+2205,AEDLSTLR,Umami,8,0.1383
+2206,AEDLSTLR,Sweet,8,
+2207,AEDLSTLR,Bitter,8,
+2208,EVAEALDAPKTT,Umami,12,0.0502
+2209,EVAEALDAPKTT,Bitter,12,
+2210,EVAEALDAPKTT,Sour,12,
+2211,EVAEALDAPKTT,Salty,12,
+2212,KVDVDSLK,Umami,8,0.2768
+2213,KVDVDSLK,Sweet,8,
+2214,AVLEEAQKVELK,Umami,12,0.0461
+2215,AVLEEAQKVELK,Sweet,12,
+2216,DTYNPR,Umami,6,1.63
+2217,DTYNPR,Sour,6,
+2218,TYNPR,Umami,5,2.11
+2219,SYNPR,Umami,5,2.36
+2220,FRDEHQ,Umami,6,3.02
+2221,FRDEHQ,Sour,6,
+2222,TYNPK,Umami,5,2.41
+2223,RFRQGD,Umami,6,2.41
+2224,RFRQGD,Sour,6,
+2225,NFHHGD,Umami,6,2.75
+2226,FHHGD,Umami,5,2.86
+2227,FRDEH,Sour,5,3.02
+2228,TVDGPSH,Umami,7,3.16
+2229,TVDGPSH,Sour,7,
+2230,EYPPLGRFA,Umami,9,0.43
+2231,TVIDAPGHRDFI,Umami,12,0.52
+2232,DDNK,Umami,4,
+2233,DLTK,Umami,4,
+2234,EHGK,Umami,4,
+2235,FEGGSIE,Sweet,7,
+2236,KDFPEAHSQAT,Sweet,11,
+2237,GSQPAEGAK,Sweet,9,
+2238,LMSL,Umami,4,0.541
+2239,LMSL,Bitter,4,
+2240,LMSL,Astringent,4,
+2241,EFLKEQF,Umami,7,0.532
+2242,EFLKEQF,Sour,7,
+2243,DEELNKLL,Umami,8,0.514
+2244,DEELNKLL,Bitter,8,
+2245,DEELNKLL,Sour,8,
+2246,DEELNKLL,Salty,8,
+2247,KALSEELDN,Umami,9,0.246
+2248,KALSEELDN,Sweet,9,
+2249,TETKTFTLK,Umami,9,0.234
+2250,TETKTFTLK,Sweet,9,
+2251,TETKTFTLK,Sour,9,
+2252,TETKTFTLK,Bitter,9,
+2253,AAEAKLELLE,Umami,10,0.23
+2254,AAEAKLELLE,Sour,10,
+2255,KETLEQEKSG,Umami,10,0.218
+2256,KETLEQEKSG,Sour,10,
+2257,TWKE,Umami,4,0.222
+2258,TWKE,Sour,4,
+2259,DLRAD,Umami,5,0.212
+2260,DLRAD,Kokumi,5,
+2261,DDLDR,Umami,5,0.198
+2262,KSLEEA,Umami,6,1.481
+2263,KSLEEA,Sour,6,
+2264,MQAMKLEK,Umami,8,0.512
+2265,DQLEKQVK,Umami,8,0.507
+2266,AKALKEEDL,Umami,9,0.123
+2267,AKALKEEDL,Sour,9,
+2268,TGFLPEEYMK,Umami,10,0.412
+2269,AMKLEKENAL,Umami,10,0.218
+2270,AMKLEKENAL,Sour,10,
+2271,MKIEKENAL,Sweet,9,
+2272,FVAKIKGKEQ,Sour,10,
+2273,QNDF,Umami,4,0.375
+2274,QNDF,Sour,4,
+2275,QGGDF,Umami,5,0.375
+2276,QGGDF,Sour,5,
+2277,QGGDF,Salty,5,
+2278,EPVTLT,Umami,6,0.1875
+2279,EPVTLT,Sour,6,
+2280,EPVTLT,Salty,6,
+2281,EVNYDFGGK,Umami,9,0.0938
+2282,EVNYDFGGK,Sour,9,
+2283,EVNYDFGGK,Salty,9,
+2284,EVNYDFGGK,Bitter,9,
+2285,TPDFVR,Kokumi,6,0.4
+2286,TPELLH,Kokumi,6,0.2
+2287,ERRY,Umami,4,0.031
+2288,ERRY,Kokumi,4,
+2289,VRGPR,Umami,5,0.063
+2290,LKYPLE,Umami,6,0.25
+2291,LKYPLE,Salty,6,
+2292,LKYPLE,Sweet,6,
+2293,LKYPLE,Sour,6,
+2294,VKKVFK,Bitter,6,0.25
+2295,YVVFKD,Umami,6,0.125
+2296,YVVFKD,Kokumi,6,
+2297,YVVFKD,Sour,6,
+2298,PVARMCR,Umami,7,
+2299,TLGGPTTL,Umami,8,0.25
+2300,TLGGPTTL,Bitter,8,0.25
+2301,GALEQILQ,Umami,8,0.4
+2302,GALEQILQ,Sweet,8,0.4
+2303,HSISDLQ,Umami,7,0.17
+2304,ADHDLPF,Salty,7,
+2305,DIQPEER,Salty,7,
+2306,DEPLIVW,Salty,7,
+2307,LPDEPSR,Salty,7,
+2308,KLNDAQAPK,Umami,9,0.76
+2309,DSTDEKFLR,Umami,9,1.24
+2310,VGKGAHLSGEH,Umami,11,0.64
+2311,MLKKKKLA,Umami,8,0.55
+2312,SLGFGGPPGY,Umami,10,0.7
+2313,TVATFSSSTKPDD,Umami,13,0.35
+2314,AMDDDEADLLLLAM,Umami,14,1.24
+2315,VEDEDEKPKEK,Umami,11,0.7
+2316,SPEEKKEEET,Umami,10,1.18
+2317,PEGADKPNK,Umami,9,1.2
+2318,DPNDPDMKY,Umami,9,
+2319,NARIEELEEE,Umami,10,
+2320,SIEDVEESRNK,Umami,11,
+2321,ISIEDVEESRNK,Umami,12,
+2322,IH,Umami,2,35.14
+2323,LH,Umami,2,25.48
+2324,IPH,Umami,3,27.96
+2325,VIVK,Umami,4,31.41
+2326,QIVK,Umami,4,21.38
+2327,NVIVK,Umami,5,36.71
+2328,DWDPHGL,Umami,7,0.39
+2329,DWDPHGL,Sweet,7,0.39
+2330,DWDPHGL,Sour,7,0.39
+2331,VPEPEPH,Umami,7,0.52
+2332,VPEPEPH,Sour,7,0.52
+2333,LTPEPEH,Umami,7,0.57
+2334,LTPEPEH,Sour,7,0.57
+2335,GANQLDPR,Umami,8,0.65
+2336,GANQLDPR,Kokumi,8,0.65
+2337,EFKDHF,Umami,6,0.8
+2338,EFKDHF,Sour,6,0.8
+2339,NVNPWHN,Umami,7,0.99
+2340,NVNPWHN,Kokumi,7,0.99
+2341,FLDR,Umami,4,0.54
+2342,FLDR,Bitter,4,0.54
+2343,LDFR,Umami,4,0.39
+2344,LDFR,Bitter,4,0.39
+2345,FPEE,Umami,4,0.38
+2346,FPEE,Sour,4,0.38
+2347,QEGW,Umami,4,0.29
+2348,QEGW,Bitter,4,0.29
+2349,RDH,Umami,3,0.32
+2350,RDH,Sour,3,0.32
+2351,LEEL,Sour,4,
+2352,LEEL,Bitter,4,
+2353,DERF,Sour,4,
+2354,DERF,Sweet,4,
+2355,DERF,Umami,4,0.29
+2356,EKNRLNFLK,Sour,9,
+2357,EKNRLNFLK,Sweet,9,
+2358,EKNRLNFLK,Umami,9,0.08
+2359,GKEKVNELSK,Sour,10,
+2360,GKEKVNELSK,Sweet,10,
+2361,GKEKVNELSK,Umami,10,0.08
+2362,NAVPIPTPTLNREQ,Sour,14,
+2363,NAVPIPTPTLNREQ,Sweet,14,
+2364,NAVPIPTPTLNREQ,Umami,14,0.53
+2365,NAVPIPTPTLNREQ,Astringent,14,
+2366,NMAINPSKENL,Sour,11,0.24
+2367,NMAINPSKENL,Sweet,11,
+2368,NMAINPSKENL,Umami,11,
+2369,NMAINPSKENL,Astringent,11,
+2370,AM,Sweet,2,0.05
+2371,DL,Sour,2,0.86
+2372,DL,Astringent,2,0.86
+2373,AF,Sour,2,
+2374,AF,Bitter,2,
+2375,EV,Sweet,2,1.52
+2376,LA,Astringent,2,0.38
+2377,LA,Umami,2,0.38
+2378,TIVWNGPPG,Bitter,9,0.2
+2379,TIVWNGPPG,Astringent,9,0.2
+2380,AVDNIPVGPN,Sour,10,0.38
+2381,AVDNIPVGPN,Bitter,10,0.38
+2382,VRPPIIVGD,Astringent,9,
+2383,GIPAWGY,Bitter,7,
+2384,GIPAWGY,Astringent,7,
+2385,VDNIPVGPN,Sour,9,0.81
+2386,VDNIPVGPN,Astringent,9,0.81
+2387,IGPDVVIGPN,Sour,10,
+2388,IGPDVVIGPN,Bitter,10,
+2389,ISPPVVAY,Sour,8,0.44
+2390,ISPPVVAY,Bitter,8,0.44
+2391,ISPPVVAY,Astringent,8,0.44
+2392,TNAPWYK,Bitter,7,
+2393,TNAPWYK,Astringent,7,
+2394,HGDWPLPT,Sour,8,
+2395,HGDWPLPT,Astringent,8,
+2396,VVDVLHPN,Astringent,8,0.84
+2397,SEYPPLGR,Sour,8,
+2398,SEYPPLGR,Astringent,8,
+2399,KVVITAPSS,Astringent,9,
+2400,KVVITAPSS,Umami,9,
+2401,VIGGPQGDAG,Sour,10,1.73
+2402,VIGGPQGDAG,Astringent,10,1.73
+2403,IIVDAYGGA,Sour,9,
+2404,IIVDAYGGA,Bitter,9,
+2405,IIVDAYGGA,Astringent,9,
+2406,VIIGGGDTAT,Sour,10,0.83
+2407,VIIGGGDTAT,Astringent,10,0.83
+2408,DVL,Umami,3,0.8975
+2409,GEI,Umami,3,0.8823
+2410,EEI,Umami,3,0.4879
+2411,IVD,Umami,3,0.7238
+2412,GID,Umami,3,1.1209
+2413,VV,Umami,2,0.786
+2414,EPL,Umami,3,0.7834
+2415,DAL,Umami,3,0.6933
+2416,VD,Umami,2,0.689
+2417,EYPPLGR,Umami,7,0.6021
+2418,EYPPLGR,Kokumi,7,
+2419,EWVPVTK,Umami,7,2.332
+2420,EWVPVTK,Sour,7,
+2421,EWVPVTK,Sweet,7,
+2422,EWVPVTK,Salty,7,
+2423,EWVPVTK,Kokumi,7,
+2424,ME,Sour,2,
+2425,ME,Bitter,2,
+2426,ME,Umami,2,
+2427,EV,Sweet,2,
+2428,EV,Umami,2,
+2429,EL,Sweet,2,
+2430,EL,Umami,2,
+2431,EA,Sour,2,
+2432,EA,Bitter,2,
+2433,VGYDAE,Sweet,6,1.72
+2434,VGYDAE,Umami,6,1.72
+2435,GATGRDGAR,Sweet,9,
+2436,GETGEAGER,Sweet,9,0.83
+2437,GETGEAGER,Umami,9,0.83
+2438,GETGEAGER,Astringent,9,0.83
+2439,GETGEAGERG,Umami,10,0.78
+2440,GETGEAGERG,Astringent,10,0.78
+2441,HLEEEIK,Umami,7,0.0697
+2442,ELY,Umami,3,0.1476
+2443,LDDALR,Umami,6,0.0891
+2444,EEE,Umami,3,0.0771
+2445,DEEYPDLS,Umami,8,
+2446,DEEYPDLS,Bitter,8,
+2447,DEEYPDLS,Sour,8,
+2448,DEEYPDL,Umami,7,
+2449,DEEYPDL,Bitter,7,
+2450,DEEYPDL,Sour,7,
+2451,EEEVVEEVE,Umami,9,
+2452,EEEVVEEVE,Bitter,9,
+2453,EEEVVEEVE,Sour,9,
+2454,DEGDLDF,Umami,7,
+2455,DEGDLDF,Bitter,7,
+2456,DEGDLDF,Sour,7,
+2457,DGEKVDFDD,Umami,9,
+2458,DGEKVDFDD,Bitter,9,
+2459,DGEKVDFDD,Sour,9,
+2460,EPEPEPEPE,Umami,9,
+2461,EPEPEPEPE,Bitter,9,
+2462,EPEPEPEPE,Sour,9,
+2463,TD,Umami,2,1.0674
+2464,TD,Sour,2,1.0674
+2465,TD,Kokumi,2,1.0674
+2466,AD,Umami,2,1.2244
+2467,AD,Sour,2,1.2244
+2468,AD,Kokumi,2,1.2244
+2469,GE,Umami,2,2.4488
+2470,GE,Sour,2,2.4488
+2471,VD,Umami,2,2.153
+2472,VD,Sour,2,2.153
+2473,LE,Bitter,2,0.9605
+2474,TEF,Umami,3,1.2645
+2475,TEF,Kokumi,3,1.2645
+2476,AGE,Umami,3,0.9082
+2477,AGE,Sour,3,0.9082
+2478,ADL,Umami,3,0.3939
+2479,ADL,Astringent,3,0.3939
+2480,TSE,Umami,3,1.4911
+2481,AGN,Umami,3,1.9212
+2482,AGN,Sour,3,1.9212
+2483,DSQ,Umami,3,0.7177
+2484,DSQ,Sour,3,0.7177
+2485,DSQ,Kokumi,3,0.7177
+2486,GFAE,Umami,4,0.5918
+2487,GFAE,Kokumi,4,0.5918
+2488,TYET,Umami,4,0.9756
+2489,TYET,Kokumi,4,0.9756
+2490,THEA,Umami,4,0.5477
+2491,THEA,Sour,4,0.5477
+2492,DGRGHL,Umami,6,0.3824
+2493,DGRGHL,Sour,6,0.3824
+2494,EGELPR,Umami,6,0.7145
+2495,EGELPR,Kokumi,6,0.7145
+2496,EGELPR,Sour,6,0.7145
+2497,FREGDL,Umami,6,0.6795
+2498,FREGDL,Kokumi,6,0.6795
+2499,FREGDL,Sour,6,0.6795
+2500,RFESF,Umami,5,0.3651
+2501,RFESF,Kokumi,5,0.3651
+2502,RFESF,Sour,5,0.3651
+2503,RFESF,Bitter,5,0.3651
+2504,FREGDI,Bitter,6,
+2505,FREGDI,Sour,6,
+2506,DPRVI,Umami,5,0.2088
+2507,DPRVI,Sour,5,0.2088
+2508,RDNPHW,Sour,6,
+2509,RDNPHW,Kokumi,6,
+2510,HYKGSSF,Bitter,7,0.3031
+2511,GSNRFET,Umami,7,0.3087
+2512,GSNRFET,Bitter,7,0.3087
+2513,TFEKP,Umami,5,0.8055
+2514,TFEKP,Kokumi,5,0.8055
+2515,HEWQH,Umami,5,0.6796
+2516,HEWQH,Sour,5,0.6796
+2517,LVDKL,Umami,5,0.427
+2518,ESKIL,Umami,5,0.574
+2519,KENINELSK,Umami,9,0.18
+2520,HKDDSPDLPK,Sour,10,
+2521,VLPVPQK,Umami,7,0.35
+2522,VLPVPQK,Sour,7,0.35
+2523,VLPVPQK,Bitter,7,0.35
+2524,VLVLDTDYKK,Umami,10,0.35
+2525,EGNPAHQK,Umami,8,0.35
+2526,EGNPAHQK,Salty,8,0.35
+2527,EGNPAHQK,Sweet,8,
+2528,EGNPAHQK,Bitter,8,
+2529,LDSPATPEK,Umami,9,0.71
+2530,LDSPATPEK,Salty,9,0.71
+2531,LDSPATPEK,Sour,9,
+2532,VVEGEPSLK,Umami,9,0.71
+2533,VVEGEPSLK,Salty,9,0.71
+2534,VVEGEPSLK,Sweet,9,0.71
+2535,QEQEAKKR,Umami,8,0.35
+2536,QEQEAKKR,Sweet,8,0.35
+2537,QEVEISRR,Salty,8,0.18
+2538,IGGIGTVPVGR,Bitter,11,
+2539,KAEVQLDGGK,Salty,10,
+2540,LSSPATLNSR,Salty,10,
+2541,QKLPEKPER,Umami,9,0.71
+2542,ADGSTINQNVK,Umami,11,
+2543,ADGSTINQNVK,Sour,11,
+2544,EQLSTSEENSK,Sour,11,
+2545,VHNEGLPAPIVR,Sour,12,
+2546,FVVAPFPEVFR,Bitter,11,
+2547,IINSFTQDDEK,Sour,11,
+2548,GPFPILV,Umami,7,0.18
+2549,GPFPILV,Sour,7,0.18
+2550,AGLELLK,Sour,7,
+2551,AGLELLK,Salty,7,
+2552,AGLELLK,Sweet,7,
+2553,PVVSGARRMMVPR,Bitter,13,
+2554,GPFPILN,Salty,7,0.35
+2555,GPFPILN,Sour,7,
+2556,GPFPILN,Bitter,7,
+2557,EVDELRSYSSLMK,Bitter,13,
+2558,DPNHFGPADLPDKY,Umami,14,
+2559,DPNHFGPADLPDKY,Sour,14,
+2560,PFPIIV,Bitter,6,0.13
+2561,RGPFPIIV,Bitter,8,0.004
+2562,PVRGPFPIIV,Bitter,10,0.004
+2563,PVLGPVRGPFPIIV,Bitter,14,0.015
+2564,PVLGPV,Bitter,6,0.5
+2565,VIIPFPGR,Bitter,8,0.14
+2566,VIIPFPG,Bitter,7,0.26
+2567,RGPFPIV,Bitter,7,0.11
+2568,VIPFPGR,Bitter,7,0.07
+2569,PFPGPIP,Bitter,7,0.25
+2570,YPFPGPI,Bitter,7,0.16
+2571,PFPGPI,Bitter,6,0.44
+2572,PGPIP,Bitter,5,0.8
+2573,PIP,Bitter,3,1.4
+2574,PFP,Bitter,3,0.4
+2575,FP,Bitter,2,1.5
+2576,PF,Bitter,2,38
+2577,YPF,Bitter,3,0.4
+2578,YP,Bitter,2,19
+2579,PFPGPI,Bitter,6,0.44
+2580,PGPG,Bitter,4,
+2581,PGPGPG,Bitter,6,2.5
+2582,MDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY,Sweet,54,
+2583,RRPFF,Bitter,5,0.02
+2584,RRPPFF,Bitter,6,0.007
+2585,RPPPFFF,Bitter,7,0.02
+2586,RRPPPFFF,Bitter,8,0.002
+2587,GPFF,Bitter,4,0.16
+2588,RGFF,Bitter,4,0.16
+2589,RPGF,Bitter,4,0.16
+2590,RPFG,Bitter,4,0.39
+2591,FFPR,Bitter,4,0.1
+2592,RPGFF,Bitter,5,0.31
+2593,RPGGFF,Bitter,6,0.09
+2594,RPFF,Bitter,4,0.03
+2595,RPFF,Bitter,4,0.19
+2596,RPFF,Bitter,4,0.08
+2597,RPFFRPFF,Bitter,8,0.01
+2598,FFRPFFRPFF,Bitter,10,0.007
+2599,RPFFRPFFRPFF,Bitter,12,0.01
+2600,RGPFPI,Bitter,6,0.13
+2601,RGPFPI,Bitter,6,0.25
+2602,GPFPIIV,Bitter,7,0.17
+2603,GPFPIIV,Bitter,7,0.34
+2604,RGPFPIIV,Bitter,8,0.004
+2605,RGPFPIV,Bitter,7,0.11
+2606,RGPPFIV,Bitter,7,0.05
+2607,VVVPPFL,Bitter,7,0.14
+2608,VVVPPFLQP,Bitter,9,0.38
+2609,VVVPP,Bitter,5,3.75
+2610,VVV,Bitter,3,3.5
+2611,VV,Bitter,2,25
+2612,GV,Bitter,2,4.5
+2613,GGV,Bitter,3,38
+2614,FL,Bitter,2,1.5
+2615,RGPPFI,Bitter,6,0.025
+2616,RG,Bitter,2,10
+2617,FI,Bitter,2,1.5
+2618,EG,Astringent,2,2.5
+2619,ET,Astringent,2,2.5
+2620,EV,Astringent,2,5
+2621,EE,Umami,2,2.5
+2622,EA,Astringent,2,10
+2623,ED,Astringent,2,1.25
+2624,EY,Astringent,2,5
+2625,EY,Bitter,2,5
+2626,EW,Astringent,2,5
+2627,EW,Bitter,2,5
+2628,EK,Astringent,2,1.3
+2629,A,Umami,1,8
+2630,D,Umami,1,4
+2631,E,Umami,1,3
+2632,Q,Umami,1,43
+2633,I,Umami,1,11
+2634,L,Umami,1,12
+2635,Y,Umami,1,5
+2636,DFNALPFK,Astringent,8,0.38
+2637,DFNALPFK,Umami,8,0.38
+2638,YNEDNGIVK,Astringent,9,0.45
+2639,VPGGQEIKDR,Astringent,10,0.56
+2640,EDEDE,Umami,5,0.197
+2641,EDEDE,Sour,5,
+2642,DLSESV,Umami,6,0.193
+2643,DLSESV,Sour,6,
+2644,SNGDDE,Umami,6,0.394
+2645,SNGDDE,Sour,6,
+2646,DETL,Umami,4,0.131
+2647,DETL,Sour,4,
+2648,CDLSD,Sour,5,0.206
+2649,TDEE,Umami,4,0.234
+2650,TDEE,Sour,4,
+2651,WGDL,Umami,4,0.511
+2652,WGDL,Sweet,4,
+2653,WGDL,Bitter,4,
+2654,FDDLP,Umami,5,0.2065
+2655,FDDLP,Sweet,5,
+2656,FDDLP,Bitter,5,
+2657,VAQWR,Umami,5,0.1899
+2658,VAQWR,Sweet,5,
+2659,VAQWR,Salty,5,
+2660,YGESDL,Umami,6,0.0916
+2661,YGESDL,Sweet,6,
+2662,FE,Umami,2,0.234
+2663,FE,Sweet,2,
+2664,FE,Sour,2,
+2665,YDQ,Umami,3,0.576
+2666,YDQ,Sour,3,
+2667,YDQ,Salty,3,
+2668,FQEY,Umami,4,0.327
+2669,FQEY,Salty,4,
+2670,FQEY,Sour,4,
+2671,SPFSQ,Umami,5,0.456
+2672,SPFSQ,Sweet,5,
+2673,SPFSQ,Sour,5,
+2674,EV,Umami,2,
+2675,EG,Umami,2,
+2676,EY,Umami,2,
+2677,ENG,Umami,3,
+2678,ECG,Umami,3,
+2679,DEL,Umami,3,
+2680,DDL,Umami,3,
+2681,PEG,Umami,3,
+2682,PEEL,Umami,4,
+2683,DGPL,Umami,4,
+2684,EDCS,Umami,4,
+2685,CQ,Umami,2,1.1
+2686,CSQ,Umami,3,0.72
+2687,STAN,Umami,4,0.29
+2688,NN,Umami,2,0.64
+2689,TGS,Umami,3,1.21
+2690,TGS,Bitter,3,
+2691,HANR,Umami,4,1.04
+2692,HANR,Salty,4,
+2693,DP,Umami,2,0.52
+2694,DMC,Umami,3,0.94
+2695,DATE,Umami,4,0.33
+2696,DATE,Sweet,4,
+2697,ALVDDDEWGKE,Umami,11,
+2698,FDDGWESR,Umami,8,
+2699,DPDGW,Umami,5,
+2700,DNPNW,Umami,5,
+2701,AEEVEEERLK,Umami,10,0.75
+2702,VLTHGEDKEGE,Umami,11,0.55
+2703,VLTHGEDKEGE,Sour,11,
+2704,TLTDVEK,Umami,7,0.78
+2705,TLTDVEK,Salty,7,
+2706,LPVDE,Umami,5,0.8
+2707,LPVDE,Salty,5,
+2708,LTLF,Bitter,4,
+2709,LTLF,Umami,4,0.63
+2710,DDCPDK,Umami,6,
+2711,SSRDEQSR,Umami,8,
+2712,PIYEGY,Umami,6,0.1687
+2713,PIYEGY,Sour,6,0.1687
+2714,PIYEGY,Bitter,6,0.1687
+2715,TVPIYEG,Umami,7,0.1928
+2716,TVPIYEG,Sour,7,0.1928
+2717,TVPIYEG,Bitter,7,0.1928
+2718,KGSLAEEE,Umami,8,0.2901
+2719,EAPGTYHH,Umami,8,
+2720,KENINELSK,Umami,9,
+2721,VLPVPQK,Umami,7,
+2722,VLVLDTDYKK,Umami,10,
+2723,EGNPAHQK,Umami,8,
+2724,LDSPATPEK,Umami,9,
+2725,VVEGEPSLK,Umami,9,
+2726,QKLPEKPER,Umami,9,
+2727,GPFPILV,Umami,7,
+2728,AGLELLK,Umami,7,
+2729,GPFPILN,Umami,7,
+2730,AGKNTNGSQF,Umami,10,
+2731,DEAVARGATF,Umami,10,
+2732,REESDFQSSF,Umami,10,
+2733,SEETTTGVHH,Umami,10,
+2734,WNNDAFQSSTN,Umami,11,
+2735,DEEYPDL,Umami,7,0.2131
+2736,DEEYPDL,Salty,7,0.2131
+2737,EPEPEPEPE,Umami,9,0.3267
+2738,HEEDKEGE,Umami,8,
+2739,GFLGPQ,Umami,6,
+2740,ADGLWL,Umami,6,
+2741,AGDDAPR,Umami,7,
+2742,FAGDDAPR,Umami,8,
+2743,IGPGLGR,Umami,7,
+2744,KDGGGGK,Umami,7,
+2745,PGPAGPAGP,Umami,9,
+2746,IPIPATKT,Umami,8,
+2747,SEASNNK,Umami,7,
+2748,EEEVVEEVE,Umami,9,0.2007
+2749,DEGDLDF,Umami,7,0.2894
+2750,FE,Umami,2,0.292
+2751,FE,Sweet,2,
+2752,FE,Sour,2,
+2753,LM,Umami,2,0.609
+2754,LM,Kokumi,2,
+2755,LM,Sweet,2,
+2756,YDQ,Umami,3,0.353
+2757,YDQ,Sour,3,
+2758,YDQ,Salty,3,
+2759,FQEY,Umami,4,0.178
+2760,FQEY,Sour,4,
+2761,FQEY,Kokumi,4,
+2762,LGGPL,Umami,5,0.183
+2763,LGGPL,Kokumi,5,
+2764,LGGPL,Sweet,5,
+2765,SPFSQ,Umami,5,0.177
+2766,SPFSQ,Sweet,5,
+2767,SPFSQ,Kokumi,5,
+2768,GHDGPFG,Umami,7,0.195
+2769,GHDGPFG,Sour,7,
+2770,EQRQQEGVIVEL,Umami,12,0.1806
+2771,GLLPDGTPR,Umami,9,0.1351
+2772,RPNPFENR,Umami,8,0.1215
+2773,STMLLESER,Umami,9,0.1173
+2774,ANPGPVRDLR,Umami,10,0.1142
+2775,QVAIAHRDAK,Umami,10,0.1128
+2776,VLPTDQNFILR,Umami,11,0.095
+2777,VTADESQQDVLK,Umami,12,0.0938
+2778,KLNDAQAPK,Umami,9,0.76
+2779,DSTDEKFLR,Umami,9,1.24
+2780,VGKGAHLSGEH,Umami,11,0.64
+2781,MLKKKKLA,Umami,8,0.55
+2782,SLGFGGPPGY,Umami,10,0.7
+2783,TVATFSSSTKPDD,Umami,13,0.35
+2784,AMDDDEADLLLLAM,Umami,14,1.24
+2785,VEDEDEKPKEK,Umami,11,0.7
+2786,SPEEKKEEET,Umami,10,1.18
+2787,PEGADKPNK,Umami,9,1.2
+2788,DEEYPDLS,Umami,8,0.097
+2789,RPGAGQPPRR,Umami,10,
+2790,DPIIQDRHGG,Umami,10,
+2791,RIEAQNKPF,Umami,9,
+2792,GGKATIIHAQ,Umami,10,
+2793,ITTDTPEL,Umami,8,
+2794,FNKEE,Umami,5,0.571
+2795,TLGGPTTL,Umami,8,0.25
+2796,TLGGPTTL,Bitter,8,
+2797,GALEQILQDFE,Umami,11,0.4
+2798,GALEQILQDFE,Sweet,11,
+2799,HSISDLQ,Umami,7,0.17
+2800,ERRY,Umami,4,
+2801,VRGPR,Umami,5,
+2802,LKYPLE,Umami,6,
+2803,VKKVFK,Umami,6,
+2804,YVVFKD,Umami,6,
+2805,APDFGNR,Umami,7,0.3867
+2806,RGFGGAR,Umami,7,0.6252
+2807,RPRVVR,Umami,6,0.3197
+2808,SWLDGK,Umami,6,0.7094
+2809,TPLVDR,Umami,6,
+2810,NWDDMEK,Umami,7,
+2811,QIVK,Umami,4,0.3
+2812,RGENESDEQGAIVT,Umami,14,
+2813,EPLCNQ,Umami,6,0.178
+2814,SGCVNEL,Umami,7,0.174
+2815,PHEMQ,Umami,5,0.39
+2816,SEPSHF,Umami,6,0.356
+2817,ESCAPQL,Umami,7,0.167
+2818,GSAQA,Umami,5,1.387
+2819,ISKEK,Umami,5,0.75
+2820,LPKERLYV,Umami,8,0.25
+2821,VENQQLAL,Umami,8,0.2
+2822,MAASGDVGK,Umami,9,0.23954
+2823,VYETPDR,Umami,7,0.22755
+2824,DAPYDYK,Umami,7,0.14353
+2825,TREQMIHER,Umami,9,0.20844
+2826,LLDAFFFDNK,Umami,10,0.10168
+2827,EATLWDMEEK,Umami,10,0.09989
+2828,LPLLEEAFLSR,Umami,11,0.15534
+2829,NALKSVECYDAR,Umami,12,0.09134
+2830,AKLTSLEEECQR,Umami,12,0.08887
+2831,YLASCLSSVKEEK,Umami,13,0.06865
+2832,EQLEATVQKLDESR,Umami,14,0.12152
+2833,MEREQEESTMR,Umami,11,0.08768
+2834,SGVVAAVNDAAKDFHG,Umami,16,0.1284
+2835,VLSLNSGTEAVEAAIK,Umami,16,0.15607
+2836,EGSTIGLSK,Umami,9,0.22447
+2837,IMEALAGAGIDPRR,Umami,14,0.13608
+2838,NQEGLFR,Umami,7,0.23177
+2839,MTNLLEDLSFR,Umami,11,0.1
+2840,GFGDSCTPGKNER,Umami,13,0.125
+2841,YADSNIQINGTDR,Umami,13,0.5
+2842,AREIALQELGEQAK,Umami,14,0.5
+2843,IQQDDCK,Umami,7,0.2
+2844,QAEADMAR,Umami,8,0.1
+2845,VIIIIH,Umami,6,
+2846,FVPISGW,Umami,7,
+2847,VIILIH,Umami,6,
+2848,YEEE,Umami,4,
+2849,YEED,Umami,4,
+2850,HVRRK,Umami,5,
+2851,DL,Umami,2,
+2852,FMSALF,Umami,6,
+2853,NAMK,Umami,4,
+2854,VLPVPQK,Salty,7,
+2855,VLVLDTDYKK,Salty,10,
+2856,EGNPAHQK,Salty,8,
+2857,LDSPATPEK,Salty,9,
+2858,VVEGEPSLK,Salty,9,
+2859,QKLPEKPER,Salty,9,
+2860,GPFPILV,Salty,7,
+2861,AGLELLK,Salty,7,
+2862,GPFPILN,Salty,7,
+2863,LEHA,Umami,4,
+2864,IKQD,Umami,4,
+2865,AQPT,Umami,4,
+2866,AQPA,Umami,4,
+2867,AADESERM,Umami,8,0.2753
+2868,AADESERM,Sour,8,
+2869,AADESERM,Sweet,8,
+2870,SDEERMDAL,Umami,9,0.1174
+2871,SDEERMDAL,Sour,9,
+2872,EERAESGES,Umami,9,0.0629
+2873,EERAESGES,Sour,9,
+2874,EERAESGES,Sweet,9,
+2875,MPDLSSFITIKNNSNHVFTRTAIYSKYAAVQWSPEPQLSISPGKWDLFILKDILSIRGTSGYVQYRVGDGPGLVRVTFSSLVGADEVAEWSSGDLPDGFVLQKPVRTGSRPLQ,Sweet,113,
+2876,FQLSAER,Umami,7,0.353
+2877,FQLSAER,Sweet,7,0.353
+2878,STLDAEVR,Umami,8,0.787
+2879,EIEELR,Bitter,6,1.015
+2880,EQYEEEQEAK,Umami,10,0.468
+2881,KSIDDVEE,Umami,8,0.428
+2882,EDEIFPR,Umami,7,0.332
+2883,IDDLEDE,Sour,7,0.472
+2884,YEAFVK,Umami,6,0.397
+2885,GEVDDSIQE,Umami,9,0.252
+2886,NKF,Sour,3,0.46
+2887,NKF,Umami,3,0.46
+2888,NKF,Astringent,3,0.46
+2889,LGLR,Bitter,4,0.39
+2890,LGLR,Umami,4,0.39
+2891,LEF,Umami,3,0.46
+2892,VDF,Sour,3,0.24
+2893,VDF,Astringent,3,0.24
+2894,RRLL,Sour,4,0.13
+2895,RRLL,Umami,4,0.13
+2896,RRLL,Astringent,4,0.13
+2897,WDL,Sour,3,0.16
+2898,NMKF,Sour,4,0.2
+2899,NMKF,Salty,4,0.2
+2900,NMKF,Umami,4,0.2
+2901,FDSL,Sour,4,0.5
+2902,FDSL,Sweet,4,0.5
+2903,FDSL,Umami,4,0.5
+2904,QFLR,Sour,4,0.37
+2905,QFLR,Sweet,4,0.37
+2906,QFLR,Umami,4,0.37
+2907,FDGK,Sour,4,0.32
+2908,FDGK,Salty,4,0.32
+2909,FDGK,Umami,4,0.32
+2910,FDGK,Astringent,4,0.32
+2911,VPAFLRQARCFS,Umami,12,0.251
+2912,CTPNSPSAIPFLISSARDIFLR,Umami,22,0.191
+2913,ISWCFTY,Umami,7,0.141
+2914,ISWCFTY,Sweet,7,0.141
+2915,LKDGQAQ,Umami,7,0.343
+2916,LKDGQAQ,Sweet,7,0.343
+2917,FKKFP,Umami,5,0.466
+2918,TVGGILIHFL,Umami,10,0.252
+2919,HLFCHNK,Umami,7,0.579
+2920,NIIGA,Umami,5,0.76
+2921,NIIGA,Sweet,5,0.76
+2922,LLMLVV,Umami,6,0.306
+2923,QISPYRRI,Umami,8,0.107
+2924,DDL,Umami,3,0.173
+2925,DDL,Sour,3,0.173
+2926,EY,Sour,2,0.201
+2927,EY,Umami,2,0.201
+2928,DEL,Umami,3,0.333
+2929,DEL,Sour,3,0.333
+2930,EG,Umami,2,0.612
+2931,EG,Sour,2,0.612
+2932,EG,Salty,2,0.612
+2933,EV,Sour,2,0.508
+2934,EV,Bitter,2,0.508
+2935,PEEL,Umami,4,0.257
+2936,PEEL,Sour,4,0.257
+2937,PEEL,Salty,4,0.257
+2938,EDCS,Sour,4,0.276
+2939,EDCS,Umami,4,0.276
+2940,EDCS,Salty,4,0.276
+2941,ENG,Umami,3,0.393
+2942,ENG,Sour,3,0.393
+2943,PEG,Sour,3,0.415
+2944,PEG,Umami,3,0.415
+2945,PEG,Sweet,3,0.415
+2946,ECG,Sour,3,0.813
+2947,ECG,Umami,3,0.813
+2948,DGPL,Umami,4,0.624
+2949,DGPL,Sour,4,0.624
+2950,DGPL,Bitter,4,0.624
+2951,DTEEVEHGEE,Umami,10,0.2131
+2952,DTEEVEHGEE,Sour,10,0.2131
+2953,DTEEVEHGEE,Salty,10,0.2131
+2954,EVHEEEVH,Umami,8,0.2483
+2955,EVHEEEVH,Sour,8,0.2483
+2956,HEAEEVHEE,Umami,9,0.2256
+2957,HEAEEVHEE,Sour,9,0.2256
+2958,HEKLSEESEE,Umami,10,0.2056
+2959,HEKLSEESEE,Bitter,10,0.2056
+2960,TPIPDLP,Umami,7,0.3325
+2961,VEVVALND,Sweet,8,0.7
+2962,VEVVALND,Umami,8,0.7
+2963,VEVVALND,Astringent,8,0.7
+2964,GPTVEEVD,Sour,8,0.36
+2965,GPTVEEVD,Umami,8,0.36
+2966,LFEQHPEYRK,Sour,10,0.15
+2967,LFEQHPEYRK,Umami,10,0.15
+2968,ATNGSR,Sour,6,0.28
+2969,ATNGSR,Umami,6,0.28
+2970,ATNGSR,Sweet,6,0.28
+2971,AGVEDVY,Sour,7,0.11
+2972,AGVEDVY,Umami,7,0.11
+2973,AGVEDVY,Sweet,7,0.11
+2974,NVVAGSDLR,Umami,9,0.1
+2975,AFDVQ,Sour,5,0.11
+2976,AFDVQ,Umami,5,0.11
+2977,AFTSYDRT,Sweet,8,0.11
+2978,EFVDIINSRN,Sweet,10,0.19
+2979,YDAELS,Salty,6,
+2980,YDAELS,Umami,6,0.5382
+2981,TDVAHR,Astringent,6,
+2982,TDVAHR,Umami,6,1.0749
+2983,ELELQ,Umami,5,1.1892
+2984,ELELQ,Sweet,5,
+2985,WGSEPIRIQ,Umami,9,0.41
+2986,WGSEPIRIQ,Sour,9,0.41
+2987,WGSEPIRIQ,Bitter,9,0.41
+2988,TERGYSF,Umami,7,0.29
+2989,TERGYSF,Sour,7,0.29
+2990,QQLPQFEE,Umami,8,
+2991,QQLPQFEE,Salty,8,
+2992,LSFE,Umami,4,
+2993,LSFE,Salty,4,
+2994,EELR,Umami,4,
+2995,EELR,Salty,4,
+2996,YTCE,Umami,4,
+2997,YTCE,Salty,4,
+2998,YTTD,Umami,4,
+2999,YTTD,Salty,4,
+3000,EEDQ,Umami,4,
+3001,EEDQ,Salty,4,
+3002,HWDRSNWF,Sour,8,0.34
+3003,HWDRSNWF,Umami,8,0.34
+3004,HWDRSNWF,Bitter,8,0.34
+3005,HWDRSNWF,Astringent,8,0.34
+3006,VAQWRKCL,Sour,8,0.19
+3007,VAQWRKCL,Bitter,8,0.19
+3008,VAQWRKCL,Astringent,8,0.19
+3009,GPTAANRM,Sour,8,0.24
+3010,GPTAANRM,Bitter,8,0.24
+3011,GPTAANRM,Astringent,8,0.24
+3012,PGRGCPGN,Sour,8,0.25
+3013,PGRGCPGN,Umami,8,0.25
+3014,GPGCKAGL,Sour,8,0.18
+3015,NLRDNYRF,Sour,8,0.12
+3016,NLRDNYRF,Bitter,8,0.12
+3017,PGWETYRK,Sour,8,0.12
+3018,GVNAMLRK,Sour,8,0.13
+3019,GVNAMLRK,Umami,8,0.13
+3020,VDW,Umami,3,0.0753
+3021,VDW,Sour,3,0.0753
+3022,VDW,Astringent,3,0.0753
+3023,WGDDP,Umami,5,0.0535
+3024,WGDDP,Sour,5,0.0535
+3025,WGDDP,Sweet,5,0.0535
+3026,WPAGE,Umami,5,0.1119
+3027,WPAGE,Sour,5,0.1119
+3028,AGFMPLP,Umami,7,
+3029,AGFMPLP,Bitter,7,
+3030,APYSGY,Umami,6,
+3031,APYSGY,Salty,6,
+3032,PPMF,Bitter,4,
+3033,PPMF,Salty,4,
+3034,SLSSLMK,Umami,7,
+3035,VAMNPVDHPH,Umami,10,
+3036,VAMNPVDHPH,Sweet,10,
+3037,VAMNPVDHPH,Bitter,10,
+3038,GRVSNCAA,Umami,8,0.32
+3039,KGDEESLA,Umami,8,1.41
+3040,KGGGGP,Umami,6,1.41
+3041,TGDPEK,Umami,6,3.1
+3042,EALEATAQ,Umami,8,0.1671
+3043,SPPTEE,Umami,6,0.129
+3044,SEEG,Umami,4,0.2284
+3045,KEE,Umami,3,0.1484
+3046,FEE,Umami,3,0.1866
+3047,EEEQR,Sweet,5,
+3048,WEEF,Umami,4,0.32
+3049,FEF,Umami,3,0.55
+3050,VE,Umami,2,1.1
+3051,EFFSNYGTRV,Umami,10,0.09
+3052,PKKCIGNWRT,Umami,10,0.441
+3053,LVVKRALEVYFV,Umami,12,0.23
+3054,LVVKRALEVYFV,Sweet,12,0.23
+3055,KCIGNWVT,Umami,8,0.304
+3056,KCIGNWVT,Sweet,8,0.304
+3057,TMTQR,Umami,5,0.566
+3058,KTRINLVRYITV,Umami,12,0.173
+3059,GCWGRGRLCQW,Umami,11,0.106
+3060,LGVFRAQAVEYV,Umami,12,0.289
+3061,KATYRRFTPN,Umami,10,0.199
+3062,EFFSNYDTRL,Umami,10,0.116
+3063,DLV,Umami,3,
+3064,AVL,Bitter,3,
+3065,LEDKVE,Umami,6,0.16
+3066,DEELNKLK,Umami,8,0.12
+3067,DLKEKL,Umami,6,0.2
+3068,LEER,Umami,4,0.24
+3069,AEKEEEFENT,Umami,10,0.14
+3070,EQEEYKK,Umami,7,0.12
+3071,EFDKK,Umami,5,0.23
+3072,GEDFDNKLV,Umami,9,0.13
+3073,DES,Umami,3,0.546
+3074,EDF,Umami,3,
+3075,PQFAPEED,Umami,8,0.24
+3076,PQFAPEED,Salty,8,0.24
+3077,EEHPVLLTEA,Umami,10,0.3
+3078,EEHPVLLTEA,Bitter,10,0.3
+3079,DQAIPNKPEE,Umami,10,0.29
+3080,DQAIPNKPEE,Bitter,10,0.29
+3081,GDNVGF,Salty,6,
+3082,SREQIEEL,Bitter,8,0.111
+3083,AGEEDNVIS,Bitter,9,0.069
+3084,GQIEEL,Bitter,6,0.223
+3085,GSAQEVD,Bitter,7,0.276
+3086,GSSHEVD,Bitter,7,0.552
+3087,EVDRLLKN,Bitter,8,0.336
+3088,DCY,Sweet,3,
+3089,GGR,Sweet,3,
+3090,IGR,Sweet,3,
+3091,YGGTPPFV,Sweet,8,
+3092,MDEPVVVPGKPY,Umami,12,
+3093,IIAPPERKY,Umami,9,
+3094,GVDNPGHPF,Umami,9,
+3095,GNERPIGPF,Umami,9,
+3096,GMPGPSGPPGDTGAA,Umami,15,
+3097,MGPRGPPGPPGSSGPQ,Umami,16,
+3098,AGDDAPRAVFPS,Umami,12,
+3099,KDLLDPVISD,Umami,10,
+3100,EMLDTKQPRQF,Umami,11,
+3101,SPAMPVPGPM,Umami,10,
+3102,DEKSPAMPVPGPM,Umami,13,
+3103,SGPPVPGPIGPM,Umami,12,
+3104,GADGNAGPTGPAGPLG,Umami,16,
+3105,ADGNAGPTGPAGPL,Umami,14,
+3106,MTGSPGNPGPDGKIGPS,Umami,17,
+3107,IIDQNRDGIIS,Umami,11,
+3108,VQGPAGPVGPM,Umami,11,
+3109,VEEEFPDLSKH,Umami,11,
+3110,GPAGPAGPRGPSGERGEVGPA,Umami,21,
+3111,AGPVGEPGKQGPSGPSGE,Umami,18,
+3112,SGPPVPGPIGPMGPRG,Umami,16,
+3113,GPPVPGPIGPMGPRG,Umami,15,
+3114,FTPDQIEDFKE,Umami,11,
+3115,VDNPGHPFIM,Umami,10,
+3116,VKEDDIHPRNPPKF,Umami,14,
+3117,IITNWDDMEK,Umami,10,
+3118,AFAGILTDADITAAL,Umami,15,
+3119,MPVPGPMGPMGPRG,Umami,14,
+3120,FAGDDAPRA,Umami,9,
+3121,WFKPEEFVT,Umami,9,
+3122,AVIDQDKSGFIEEDELK,Sour,17,
+3123,AIIDQDKSGFIEEDELK,Sour,17,
+3124,EELDHALNDMTSL,Sour,13,
+3125,RDLTDYLMK,Sour,9,
+3126,DDLRDVLAS,Sour,9,
+3127,GWLDKNKDPLNDSVVQ,Sour,16,
+3128,ERLEDEEEIN,Sour,10,
+3129,SGPPVPGPIGPMGPR,Sour,15,
+3130,GPPVPGPIGPMG,Sour,12,
+3131,FTPDQIEDFK,Sour,10,
+3132,DEKSPAMPVPGPM,Sour,13,
+3133,SGPPVPGPIGPM,Sour,12,
+3134,GADGNAGPTGPAGPLG,Sour,16,
+3135,ADGNAGPTGPAGPL,Sour,14,
+3136,MTGSPGNPGPDGKIGPS,Sour,17,
+3137,IIDQNRDGIIS,Sour,11,
+3138,VQGPAGPVGPM,Sour,11,
+3139,VEEEFPDLSKH,Sour,11,
+3140,GPAGPAGPRGPSGERGEVGPA,Sour,21,
+3141,AGPVGEPGKQGPSGPSGE,Sour,18,
+3142,GVDNPGHPF,Sour,9,
+3143,GPPVPGPIGPM,Sour,11,
+3144,SGPPVPGPIGPM,Sour,12,
+3145,EDDIHPRNPPKFD,Sour,13,
+3146,MDEPVVVPGKPY,Sour,12,
+3147,GWLDKNKDPLNDSVVQ,Sour,16,
+3148,FIEEDELKLF,Sour,10,
+3149,SVDDEFPDLTK,Sour,11,
+3150,AGDDAPRAVFPS,Sour,12,
+3151,RDLTDYLMK,Sour,9,
+3152,KAEPAPAPAPAPAPAPAPAP,Bitter,20,
+3153,DEKSPAMPVPGPM,Bitter,13,
+3154,GPAGPRGPSGERGEVGPA,Bitter,18,
+3155,LDKNKDPLNDSVVQ,Bitter,14,
+3156,FAGDDAPRA,Bitter,9,
+3157,SGPPVPGPIGPM,Bitter,12,
+3158,LGAGDTDGDGKIGAD,Bitter,15,
+3159,DEKSPAMPVPGPMGPM,Bitter,16,
+3160,IEDPFDQDDWEH,Bitter,12,
+3161,LEQQVDDLEGSLE,Bitter,13,
+3162,APDPGPGPMG,Bitter,10,
+3163,NWDDMEKIW,Bitter,9,
+3164,GPPVPGPIGPM,Bitter,11,
+3165,ERLEDEEEIN,Bitter,10,
+3166,AVIDQDKSGFIEEDELKLF,Bitter,19,
+3167,RDLTDYLMK,Bitter,9,
+3168,MPVPGPMGPM,Bitter,10,
+3169,GPPVPGPIGPMG,Bitter,12,
+3170,LGEQIDNLQRVK,Bitter,12,
+3171,DPFDQDDWEHWAK,Bitter,13,
+3172,GVDNPGHPF,Bitter,9,
+3173,GPPVPGPIGPM,Bitter,11,
+3174,SGPPVPGPIGPM,Bitter,12,
+3175,EDDIHPRNPPKFD,Bitter,13,
+3176,MDEPVVVPGKPY,Bitter,12,
+3177,GWLDKNKDPLNDSVVQ,Bitter,16,
+3178,FIEEDELKLF,Bitter,10,
+3179,SVDDEFPDLTK,Bitter,11,
+3180,AGDDAPRAVFPS,Bitter,12,
+3181,RDLTDYLMK,Bitter,9,
+3182,MDAIKKMQ,Umami,8,0.722
+3183,DWTDDVEAR,Umami,9,0.07 
+3184,RDETLDDW,Umami,8,0.09
+3185,FDELLEK,Umami,7,0.03
+3186,DK,Sour,2,1.56
+3187,EK,Umami/Sour,2,3.12
+3188,KGD,Sweet,3,1.3
+3189,GG,Tasteless,2,
+3190,DKHARSGECFYDEKR,Tasteless,15,
+3191,KKRARSGDCFYDAKR,Tasteless,15,
+3192,DAKR,Tasteless,4,
+3193,AVDNIPVGPN,sweet enhancing,10,
+3194,VDNIPVGPN,sweet enhancing,9,
+3195,AM,sweet enhancing,2,
+3196,GGNP,sweet,4,
+3197,GGNP,Umami,4,2.1
+3198,GGNP,Umami enhancing        ,4,0.63
+3199,FK,sweet,2,
+3200,ADM,sweet,3,
+3201,NCW,sweet enhancing,3,
+3202,EGF,sweet,3,0.4
+3203,QDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY,sweet,54,
+3204,GEWEIIDIGPFTQNLGKFAVDEENKIGQYGRLTFNKVIRPCMKKTIYEENGFREIKGYEYQLYVYASDKLFRADISEDYKTRGRKLLRFNGPVPPP,sweet,96,
+3205,QPRRPALRQCCNQLRQVDRPCVCPVLRQAAQQVLQRQIIQGPQQLRRLFDAARNLPNICNIPNIGACPFRAW,sweet,72,
+3206,MGEWEIIDIGPFTQNLGKFAVDEENKIGQYGRLTFNKVIRPCMKKTIYENEGFREIKGYEYQLYVYASDKLFRADISEDYKTRGRKLLRFNGPVPPP,sweet,97,

@@ -1,0 +1,20 @@
+batch_size: 128
+d_model: 256
+epochs: 300
+hidden_units: 1024
+lr: 0.0003
+n_heads: 8
+n_layers: 8
+properties:
+- aromatic
+- bitter
+- charge
+- gravy
+- hydrophobic_fraction
+- length
+- mw
+- salty
+- sour
+- sweet
+- umami
+run_name: encoder_decoder_aromatic_bitter_charge_gravy_hydrophobic_fraction_length_mw_salty_sour_sweet_umami
