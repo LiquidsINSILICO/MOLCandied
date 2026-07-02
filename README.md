@@ -1,11 +1,11 @@
-# MolGPT2.0
+# MolCandied
 
-This repository contains code and datasets for the paper "MolGPT2.0:
+This repository contains code and datasets for the work where "sweet peptides is being performed:
 Multi-objective molecule generation via transformer encoder-decoder model and direct preference optimization."
 
 ---
 
-`data` contains dataset(dockstring) used for training base models in the file `lck_dockstring_data1.csv`, while Preference data used for performing DPO is present in pickle file `PreferenceData_affinity.pkl` .
+`data` contains dataset(dockstring) used for training base models in the file `peptide_conditional_norm.csv`, while Preference data used for performing DPO is present in pickle file `PreferenceData_affinity.pkl` .
 
 ---
 
