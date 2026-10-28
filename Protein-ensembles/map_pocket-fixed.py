@@ -62,7 +62,7 @@ for i, (ref_char, model_char) in enumerate(zip(best_alignment[0], best_alignment
         model_idx += 1
 
 # 5. Map Your Binding Pocket
-binding_pocket_9UTB = [67, 71, 103, 142, 143, 165, 277, 278, 302, 384]
+binding_pocket_9UTB = [67, 71, 103, 142, 143, 165, 277, 278, 302, 384]   # change as you require
 
 print(f"{'9UTB Residue':<15} | {'Model1 Residue':<15} | {'Status'}")
 print("-" * 45)
